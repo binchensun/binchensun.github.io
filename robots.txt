@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://binchensun.github.io/sitemap.xml
+Sitemap: https://binchen.netlify.app/sitemap.xml
