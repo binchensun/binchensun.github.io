@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;techniques: imaging spectroscopy&#34; | Bin Chen&#39;s Site (under construction)</title>
+    <link>https://binchensun.github.io/tag/techniques-imaging-spectroscopy/</link>
+      <atom:link href="https://binchensun.github.io/tag/techniques-imaging-spectroscopy/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;techniques: imaging spectroscopy&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;techniques: imaging spectroscopy&#34;</title>
+      <link>https://binchensun.github.io/tag/techniques-imaging-spectroscopy/</link>
+    </image>
+    
+    <item>
+      <title>Possible Detection of Subsecond-period Propagating Magnetohydrodynamics Waves in Post-reconnection Magnetic Loops during a Two-ribbon Solar Flare</title>
+      <link>https://binchensun.github.io/publication/2019-ap-j-872-71-y/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2019-ap-j-872-71-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Spectral Imaging of Decimetric Fiber Bursts in an Eruptive Solar Flare</title>
+      <link>https://binchensun.github.io/publication/2017-ap-j-848-77-w/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2017-ap-j-848-77-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

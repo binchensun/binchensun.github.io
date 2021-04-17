@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Physics - Space Physics&#34; | Bin Chen&#39;s Site (under construction)</title>
+    <link>https://binchensun.github.io/tag/physics-space-physics/</link>
+      <atom:link href="https://binchensun.github.io/tag/physics-space-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Physics - Space Physics&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Physics - Space Physics&#34;</title>
+      <link>https://binchensun.github.io/tag/physics-space-physics/</link>
+    </image>
+    
+    <item>
+      <title>Measurement of magnetic field and relativistic electrons along a solar flare current sheet</title>
+      <link>https://binchensun.github.io/publication/2020-nat-as-4-1140-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-nat-as-4-1140-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Acceleration and Confinement of Energetic Electrons by a Termination Shock in a Magnetic Trap: An Explanation for Nonthermal Loop-top Sources during Solar Flares</title>
+      <link>https://binchensun.github.io/publication/2019-ap-j-887-l-37-k/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2019-ap-j-887-l-37-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing Electron Beams in the Sun&#39;s Corona with Radio Dynamic Imaging Spectroscopy</title>
+      <link>https://binchensun.github.io/publication/2013-ap-j-763-l-21-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2013-ap-j-763-l-21-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
