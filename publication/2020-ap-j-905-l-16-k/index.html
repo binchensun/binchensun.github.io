@@ -251,6 +251,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -270,8 +309,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/publication/2020-ap-j-905-l-16-k/" />
 
@@ -289,11 +328,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/publication/2020-ap-j-905-l-16-k/" />
-  <meta property="og:title" content="Dynamical Modulation of Solar Flare Electron Acceleration due to Plasmoid-shock Interactions in the Looptop Region | Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="A fast-mode shock can form in the front of reconnection outflows and has been suggested as a promising site for particle acceleration in solar flares. Recent developments in the study of magnetic reconnection have shown that numerous plasmoids can be produced in a large-scale current layer. Here we investigate the dynamical modulation of electron acceleration in the looptop region when plasmoids intermittently arrive at the shock by combining magnetohydrodynamics simulations with a particle kinetic model. As plasmoids interact with the shock, the looptop region exhibits various compressible structures that modulate the production of energetic electrons. The energetic electron population varies rapidly in both time and space. The number of 5-10 keV electrons correlates well with the compression area, while that of $gt$50 keV electrons shows good correlation with the strong compression area but only moderate correlation with shock parameters. We further examine the impacts of the first plasmoid, which marks the transition from a quasi-steady shock front to a distorted and dynamical shock. The number of energetic electrons is reduced by ~20% at 15-25 keV and nearly 40% for 25-50 keV, while the number of 5-10 keV electrons increases. In addition, the electron energy spectrum above 10 keV evolves softer with time. We also find that double or even multiple distinct sources can develop in the looptop region when the plasmoids move across the shock. Our simulations have strong implications to the interpretation of nonthermal looptop sources, as well as the commonly observed fast temporal variations in flare emissions, including the quasi-periodic pulsations." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Dynamical Modulation of Solar Flare Electron Acceleration due to Plasmoid-shock Interactions in the Looptop Region | Bin Chen" />
+  <meta property="og:description" content="A fast-mode shock can form in the front of reconnection outflows and has been suggested as a promising site for particle acceleration in solar flares. Recent developments in the study of magnetic reconnection have shown that numerous plasmoids can be produced in a large-scale current layer. Here we investigate the dynamical modulation of electron acceleration in the looptop region when plasmoids intermittently arrive at the shock by combining magnetohydrodynamics simulations with a particle kinetic model. As plasmoids interact with the shock, the looptop region exhibits various compressible structures that modulate the production of energetic electrons. The energetic electron population varies rapidly in both time and space. The number of 5-10 keV electrons correlates well with the compression area, while that of $gt$50 keV electrons shows good correlation with the strong compression area but only moderate correlation with shock parameters. We further examine the impacts of the first plasmoid, which marks the transition from a quasi-steady shock front to a distorted and dynamical shock. The number of energetic electrons is reduced by ~20% at 15-25 keV and nearly 40% for 25-50 keV, while the number of 5-10 keV electrons increases. In addition, the electron energy spectrum above 10 keV evolves softer with time. We also find that double or even multiple distinct sources can develop in the looptop region when the plasmoids move across the shock. Our simulations have strong implications to the interpretation of nonthermal looptop sources, as well as the commonly observed fast temporal variations in flare emissions, including the quasi-periodic pulsations." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -337,10 +379,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Bin Chen's Site (under construction)",
+    "name": "Bin Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "A fast-mode shock can form in the front of reconnection outflows and has been suggested as a promising site for particle acceleration in solar flares. Recent developments in the study of magnetic reconnection have shown that numerous plasmoids can be produced in a large-scale current layer. Here we investigate the dynamical modulation of electron acceleration in the looptop region when plasmoids intermittently arrive at the shock by combining magnetohydrodynamics simulations with a particle kinetic model. As plasmoids interact with the shock, the looptop region exhibits various compressible structures that modulate the production of energetic electrons. The energetic electron population varies rapidly in both time and space. The number of 5-10 keV electrons correlates well with the compression area, while that of $gt$50 keV electrons shows good correlation with the strong compression area but only moderate correlation with shock parameters. We further examine the impacts of the first plasmoid, which marks the transition from a quasi-steady shock front to a distorted and dynamical shock. The number of energetic electrons is reduced by ~20% at 15-25 keV and nearly 40% for 25-50 keV, while the number of 5-10 keV electrons increases. In addition, the electron energy spectrum above 10 keV evolves softer with time. We also find that double or even multiple distinct sources can develop in the looptop region when the plasmoids move across the shock. Our simulations have strong implications to the interpretation of nonthermal looptop sources, as well as the commonly observed fast temporal variations in flare emissions, including the quasi-periodic pulsations."
@@ -359,7 +401,7 @@
 
 
 
-  <title>Dynamical Modulation of Solar Flare Electron Acceleration due to Plasmoid-shock Interactions in the Looptop Region | Bin Chen&#39;s Site (under construction)</title>
+  <title>Dynamical Modulation of Solar Flare Electron Acceleration due to Plasmoid-shock Interactions in the Looptop Region | Bin Chen</title>
 </head>
 
 
@@ -436,7 +478,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -449,7 +491,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 

@@ -251,6 +251,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -270,8 +309,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/publication/2019-ap-j-884-63-c/" />
 
@@ -289,11 +328,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/publication/2019-ap-j-884-63-c/" />
-  <meta property="og:title" content="Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression | Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="Solar flare termination shocks have been suggested as one of the promising drivers for particle acceleration in solar flares, yet observational evidence remains rare. By utilizing radio dynamic spectroscopic imaging of decimetric stochastic spike bursts in an eruptive flare, Chen et al. found that the bursts form a dynamic surface-like feature located at the ending points of fast plasma downflows above the looptop, interpreted as a flare termination shock. One piece of observational evidence that strongly supports the termination shock interpretation is the occasional split of the emission band into two finer lanes in frequency, similar to the split-band feature seen in fast- coronal-shock-driven type II radio bursts. Here, we perform spatially, spectrally, and temporally resolved analysis of the split-band feature of the flare termination shock event. We find that the ensemble of the radio centroids from the two split-band lanes each outlines a nearly co-spatial surface. The high- frequency lane is located slightly below its low-frequency counterpart by ~0.8 Mm, which strongly supports the shock-upstream-downstream interpretation. Under this scenario, the density compression ratio across the shock front can be inferred from the frequency split, which implies a shock with a Mach number of up to 2.0. Further, the spatiotemporal evolution of the density compression along the shock front agrees favorably with results from magnetohydrodynamics simulations. We conclude that the detailed variations of the shock compression ratio may be due to the impact of dynamic plasma structures in the reconnection outflows, which results in distortion of the shock front." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression | Bin Chen" />
+  <meta property="og:description" content="Solar flare termination shocks have been suggested as one of the promising drivers for particle acceleration in solar flares, yet observational evidence remains rare. By utilizing radio dynamic spectroscopic imaging of decimetric stochastic spike bursts in an eruptive flare, Chen et al. found that the bursts form a dynamic surface-like feature located at the ending points of fast plasma downflows above the looptop, interpreted as a flare termination shock. One piece of observational evidence that strongly supports the termination shock interpretation is the occasional split of the emission band into two finer lanes in frequency, similar to the split-band feature seen in fast- coronal-shock-driven type II radio bursts. Here, we perform spatially, spectrally, and temporally resolved analysis of the split-band feature of the flare termination shock event. We find that the ensemble of the radio centroids from the two split-band lanes each outlines a nearly co-spatial surface. The high- frequency lane is located slightly below its low-frequency counterpart by ~0.8 Mm, which strongly supports the shock-upstream-downstream interpretation. Under this scenario, the density compression ratio across the shock front can be inferred from the frequency split, which implies a shock with a Mach number of up to 2.0. Further, the spatiotemporal evolution of the density compression along the shock front agrees favorably with results from magnetohydrodynamics simulations. We conclude that the detailed variations of the shock compression ratio may be due to the impact of dynamic plasma structures in the reconnection outflows, which results in distortion of the shock front." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -337,10 +379,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Bin Chen's Site (under construction)",
+    "name": "Bin Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Solar flare termination shocks have been suggested as one of the promising drivers for particle acceleration in solar flares, yet observational evidence remains rare. By utilizing radio dynamic spectroscopic imaging of decimetric stochastic spike bursts in an eruptive flare, Chen et al. found that the bursts form a dynamic surface-like feature located at the ending points of fast plasma downflows above the looptop, interpreted as a flare termination shock. One piece of observational evidence that strongly supports the termination shock interpretation is the occasional split of the emission band into two finer lanes in frequency, similar to the split-band feature seen in fast- coronal-shock-driven type II radio bursts. Here, we perform spatially, spectrally, and temporally resolved analysis of the split-band feature of the flare termination shock event. We find that the ensemble of the radio centroids from the two split-band lanes each outlines a nearly co-spatial surface. The high- frequency lane is located slightly below its low-frequency counterpart by ~0.8 Mm, which strongly supports the shock-upstream-downstream interpretation. Under this scenario, the density compression ratio across the shock front can be inferred from the frequency split, which implies a shock with a Mach number of up to 2.0. Further, the spatiotemporal evolution of the density compression along the shock front agrees favorably with results from magnetohydrodynamics simulations. We conclude that the detailed variations of the shock compression ratio may be due to the impact of dynamic plasma structures in the reconnection outflows, which results in distortion of the shock front."
@@ -359,7 +401,7 @@
 
 
 
-  <title>Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression | Bin Chen&#39;s Site (under construction)</title>
+  <title>Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression | Bin Chen</title>
 </head>
 
 
@@ -436,7 +478,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -449,7 +491,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 

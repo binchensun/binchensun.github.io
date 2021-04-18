@@ -251,6 +251,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -270,8 +309,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/publication/2015-ap-j-811-139-t/" />
 
@@ -289,11 +328,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/publication/2015-ap-j-811-139-t/" />
-  <meta property="og:title" content="Temporal Evolution of Chromospheric Evaporation: Case Studies of the M1.1 Flare on 2014 September 6 and X1.6 Flare on 2014 September 10 | Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="With observations from the Interface Region Imaging Spectrograph, we track the complete evolution of ~11 MK evaporation flows in an M1.1 flare on 2014 September 6 and an X1.6 flare on 2014 September 10. These hot flows, as indicated by the blueshifted Fe xxi 1354.08 ̊A line, evolve smoothly with a velocity decreasing exponentially from ~200 km s$^-1$ to almost stationary within a few minutes. We find a good correlation between the flow velocity and energy deposition rate as represented by the hard X-ray flux observed with the Reuven Ramaty High Energy Solar Spectroscopic Imager, or time derivative of the soft X-ray flux observed with the Geostationary Operational Environmental Satellites and the HINODE X-ray Telescope, which is in general agreement with models of nonthermal electron heating. The maximum blueshift of Fe xxi appears approximately at the same time as or slightly after the impulsive enhancement of the ultraviolet continuum and the Mg ii 2798.8 Å line emission, demonstrating that the evaporation flow is closely related to heating of the lower chromosphere. Finally, while the hot Fe xxi 1354.08 r̊ line is entirely blueshifted with no obvious rest component, cool chromospheric and transition region lines like Si iv 1402.77 r̊ are often not entirely redshifted but just reveal an obvious red wing enhancement at the ribbons, suggesting that the speed of chromospheric condensation might be larger than previously thought." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Temporal Evolution of Chromospheric Evaporation: Case Studies of the M1.1 Flare on 2014 September 6 and X1.6 Flare on 2014 September 10 | Bin Chen" />
+  <meta property="og:description" content="With observations from the Interface Region Imaging Spectrograph, we track the complete evolution of ~11 MK evaporation flows in an M1.1 flare on 2014 September 6 and an X1.6 flare on 2014 September 10. These hot flows, as indicated by the blueshifted Fe xxi 1354.08 ̊A line, evolve smoothly with a velocity decreasing exponentially from ~200 km s$^-1$ to almost stationary within a few minutes. We find a good correlation between the flow velocity and energy deposition rate as represented by the hard X-ray flux observed with the Reuven Ramaty High Energy Solar Spectroscopic Imager, or time derivative of the soft X-ray flux observed with the Geostationary Operational Environmental Satellites and the HINODE X-ray Telescope, which is in general agreement with models of nonthermal electron heating. The maximum blueshift of Fe xxi appears approximately at the same time as or slightly after the impulsive enhancement of the ultraviolet continuum and the Mg ii 2798.8 Å line emission, demonstrating that the evaporation flow is closely related to heating of the lower chromosphere. Finally, while the hot Fe xxi 1354.08 r̊ line is entirely blueshifted with no obvious rest component, cool chromospheric and transition region lines like Si iv 1402.77 r̊ are often not entirely redshifted but just reveal an obvious red wing enhancement at the ribbons, suggesting that the speed of chromospheric condensation might be larger than previously thought." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -337,10 +379,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Bin Chen's Site (under construction)",
+    "name": "Bin Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "With observations from the Interface Region Imaging Spectrograph, we track the complete evolution of ~11 MK evaporation flows in an M1.1 flare on 2014 September 6 and an X1.6 flare on 2014 September 10. These hot flows, as indicated by the blueshifted Fe xxi 1354.08 ̊A line, evolve smoothly with a velocity decreasing exponentially from ~200 km s$^-1$ to almost stationary within a few minutes. We find a good correlation between the flow velocity and energy deposition rate as represented by the hard X-ray flux observed with the Reuven Ramaty High Energy Solar Spectroscopic Imager, or time derivative of the soft X-ray flux observed with the Geostationary Operational Environmental Satellites and the HINODE X-ray Telescope, which is in general agreement with models of nonthermal electron heating. The maximum blueshift of Fe xxi appears approximately at the same time as or slightly after the impulsive enhancement of the ultraviolet continuum and the Mg ii 2798.8 Å line emission, demonstrating that the evaporation flow is closely related to heating of the lower chromosphere. Finally, while the hot Fe xxi 1354.08 r̊ line is entirely blueshifted with no obvious rest component, cool chromospheric and transition region lines like Si iv 1402.77 r̊ are often not entirely redshifted but just reveal an obvious red wing enhancement at the ribbons, suggesting that the speed of chromospheric condensation might be larger than previously thought."
@@ -359,7 +401,7 @@
 
 
 
-  <title>Temporal Evolution of Chromospheric Evaporation: Case Studies of the M1.1 Flare on 2014 September 6 and X1.6 Flare on 2014 September 10 | Bin Chen&#39;s Site (under construction)</title>
+  <title>Temporal Evolution of Chromospheric Evaporation: Case Studies of the M1.1 Flare on 2014 September 6 and X1.6 Flare on 2014 September 10 | Bin Chen</title>
 </head>
 
 
@@ -436,7 +478,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -449,7 +491,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 

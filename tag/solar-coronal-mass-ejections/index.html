@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Solar Astrophysicist &lt;br/&gt; Associate Professor of Physics" />
+  <meta name="description" content="Bin Chen, Ph.D. | New Jersey Institute of Technology" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://binchensun.github.io/tag/solar-coronal-mass-ejections/" />
@@ -251,12 +251,51 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
 
   
 
   
 
+  
+
 
 
 
@@ -265,15 +304,15 @@
   
 
   
-    <link rel="alternate" href="/tag/solar-coronal-mass-ejections/index.xml" type="application/rss+xml" title="Bin Chen&#39;s Site (under construction)" />
+    <link rel="alternate" href="/tag/solar-coronal-mass-ejections/index.xml" type="application/rss+xml" title="Bin Chen" />
   
 
   
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/tag/solar-coronal-mass-ejections/" />
 
@@ -291,11 +330,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/tag/solar-coronal-mass-ejections/" />
-  <meta property="og:title" content="&#34;Solar coronal mass ejections&#34; | Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="Solar Astrophysicist &lt;br/&gt; Associate Professor of Physics" /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="&#34;Solar coronal mass ejections&#34; | Bin Chen" />
+  <meta property="og:description" content="Bin Chen, Ph.D. | New Jersey Institute of Technology" /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2021-04-01T00:00:00&#43;00:00" />
@@ -314,7 +356,7 @@
 
 
 
-  <title>&#34;Solar coronal mass ejections&#34; | Bin Chen&#39;s Site (under construction)</title>
+  <title>&#34;Solar coronal mass ejections&#34; | Bin Chen</title>
 </head>
 
 
@@ -391,7 +433,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -404,7 +446,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 

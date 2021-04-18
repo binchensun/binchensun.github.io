@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Solar Astrophysicist &lt;br/&gt; Associate Professor of Physics" />
+  <meta name="description" content="Bin Chen, Ph.D. | New Jersey Institute of Technology" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://binchensun.github.io/" />
@@ -253,6 +253,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -269,15 +308,15 @@
   
 
   
-    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Bin Chen&#39;s Site (under construction)" />
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Bin Chen" />
   
 
   
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/" />
 
@@ -295,11 +334,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/" />
-  <meta property="og:title" content="Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="Solar Astrophysicist &lt;br/&gt; Associate Professor of Physics" /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Bin Chen" />
+  <meta property="og:description" content="Bin Chen, Ph.D. | New Jersey Institute of Technology" /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00" />
@@ -332,7 +374,7 @@
 
 
 
-  <title>Bin Chen&#39;s Site (under construction)</title>
+  <title>Bin Chen</title>
 </head>
 
 
@@ -409,7 +451,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -422,7 +464,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -940,11 +982,11 @@
 
     <div class="article-style">
       <!--Dr. Bin Chen is an Associate Professor in the [Department of Physics](http://physics.njit.edu/) and the [Center for Solar-Terrestrial Research](https://centers.njit.edu/cstr/) at the [New Jersey Institute of Technology](http://www.njit.edu/). His research focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques to study physical processes underlying the flare energy release include magnetic reconnection and particle acceleration. He utilize observations from state-of-the-art radio telescopes, including [Expanded Owens Valley Solar Array](http://ovsa.njit.edu/), [Karl G. Jansky Very Large Array](https://science.nrao.edu/facilities/vla), and [Atacama Large (sub)Millimeter Array](https://www.almaobservatory.org/en/home/), and multiple NASA space telescopes including [SDO](https://sdo.gsfc.nasa.gov/), [RHESSI](https://hesperia.gsfc.nasa.gov/rhessi3/), [Hinode](https://www.nasa.gov/mission_pages/hinode/mission.html), and [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu).-->
-<p>Dr. Bin Chen is an Associate Professor of Physics at the <a href="http://www.njit.edu/" target="_blank" rel="noopener">New Jersey Institute of Technology</a>. His research focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques to study physical processes underlying the flare energy release include magnetic reconnection and particle acceleration.</p>
+<p>Dr. Bin Chen is an Associate Professor of Physics at the <a href="http://www.njit.edu/" target="_blank" rel="noopener">New Jersey Institute of Technology</a>. Research in his group focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques and utilizes multi-wavelength observations to study physical processes underlying these catastrophic energy release events.</p>
 <!--He utilize observations from state-of-the-art radio telescopes, including [Expanded Owens Valley Solar Array](http://ovsa.njit.edu/), [Karl G. Jansky Very Large Array](https://science.nrao.edu/facilities/vla), and [Atacama Large (sub)Millimeter Array](https://www.almaobservatory.org/en/home/), and multiple NASA space telescopes including [SDO](https://sdo.gsfc.nasa.gov/), [RHESSI](https://hesperia.gsfc.nasa.gov/rhessi3/), [Hinode](https://www.nasa.gov/mission_pages/hinode/mission.html), and [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu).-->
 <p>He was the recipient of the <a href="https://en.wikipedia.org/wiki/National_Science_Foundation_CAREER_Awards" target="_blank" rel="noopener">National Science Foundation CAREER Award</a> in 2017, and the <a href="https://cpaess.ucar.edu/heliophysics/jack-eddy" target="_blank" rel="noopener">NASA/UCAR Jack Eddy Fellowship</a> in 2013. He is currently serving as a Committee Member of the <a href="https://spd.aas.org/" target="_blank" rel="noopener">Solar Physics Division of the American Astronomical Society</a>. At NJIT, he serves as the Director of the <a href="https://physics.njit.edu/academics/graduate" target="_blank" rel="noopener">Applied Physics Graduate Program</a>. His work is funded by NSF and NASA. </p>
 <p>
-  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/media/CV_Chen.pdf" target="_blank">Curriculum Vitae</a>.</p>
+  <i class="fas fa-download  pr-1 fa-fw"></i> Download his <a href="/media/CV_Chen.pdf" target="_blank">Curriculum Vitae</a>.</p>
 <p><strong>New</strong>: We welcome applications to an <a href="news/postdoc_2021/">open postdoc position</a> in our group.</p>
 
     </div>
@@ -2970,125 +3012,6 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/2020-ap-j-900-17-y/" >Magnetic Reconnection during the Post-impulsive Phase of a Long-duration Solar Flare: Bidirectional Outflows as a Cause of Microwave and X-Ray Bursts</a>
-    </div>
-
-    
-    <a href="/publication/2020-ap-j-900-17-y/"  class="summary-link">
-      <div class="article-style">
-        Magnetic reconnection plays a crucial role in powering solar flares, production of energetic particles, and plasma heating. However, …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Sijie Yu</span>, <span >
-      Bin Chen</span>, <span >
-      Katharine K. Reeves</span>, <span >
-      Dale E. Gary</span>, <span >
-      Sophie Musset</span>, <span >
-      Gregory D. Fleishman</span>, <span >
-      Gelu M. Nita</span>, <span >
-      Lindsay Glesener</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2020-ap-j-900-17-y/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/reconnection/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3847/1538-4357/aba8a6" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/2020-ap-j-900-17-y/" >
-      <img src="/publication/2020-ap-j-900-17-y/featured_hu23471603696bcf11edf68addb60fea2d_1241591_150x0_resize_lanczos_2.png" alt="Magnetic Reconnection during the Post-impulsive Phase of a Long-duration Solar Flare: Bidirectional Outflows as a Cause of Microwave and X-Ray Bursts" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/2020-ap-j-895-l-50-c/" >Microwave Spectral Imaging of an Erupting Magnetic Flux Rope: Implications for the Standard Solar Flare Model in Three Dimensions</a>
     </div>
 
@@ -3144,7 +3067,9 @@
 
 
   
-    
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/eruption/">
+    Project
+  </a>
   
 
 
@@ -3159,6 +3084,38 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..50C/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.astro.gla.ac.uk/users/eduard/cesra/?p=2682" target="_blank" rel="noopener">
+    
+    CESRA Highlight
+  </a>
 
 
     </div>
@@ -3276,6 +3233,38 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2020Sci...367..278F/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://news.njit.edu/njit-scientists-record-birth-solar-explosion" target="_blank" rel="noopener">
+    
+    NJIT Press Release
+  </a>
 
 
     </div>
@@ -3399,6 +3388,86 @@
 </a>
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1140C/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://news.njit.edu/researchers-offer-unprecedented-look-central-engine-powering-solar-flare" target="_blank" rel="noopener">
+    
+    NJIT Press Release
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cfa.harvard.edu/news/2020-15" target="_blank" rel="noopener">
+    
+    CfA Press Release
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&amp;org=NSF&amp;from=news" target="_blank" rel="noopener">
+    
+    NSF Featured News
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://astronomy.com/news/2020/07/astronomers-develop-new-method-for-predicting-explosive-solar-flares" target="_blank" rel="noopener">
+    
+    Astronomy Magazine
+  </a>
+
 
     </div>
     
@@ -3498,12 +3567,6 @@
 
 
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/acceleration/">
-    Project
-  </a>
-  
-
-  
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/shock_wave/">
     Project
   </a>
@@ -3521,6 +3584,54 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2015Sci...350.1238C/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://public.nrao.edu/news/2013-10-01-13-11-51-4/" target="_blank" rel="noopener">
+    
+    NRAO Press Release
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.scientificamerican.com/article/mysteriously-powerful-particles-from-solar-explosions-unveiled-in-new-study/" target="_blank" rel="noopener">
+    
+    Scientific American
+  </a>
 
 
     </div>
@@ -3622,18 +3733,6 @@
 
 
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/acceleration/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/reconnection/">
-    Project
-  </a>
-  
-
-  
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/radio_bursts/">
     Project
   </a>
@@ -3651,6 +3750,38 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2013ApJ...763L..21C/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://science.nrao.edu/science/highlights/fy2013" target="_blank" rel="noopener">
+    
+    NRAO Science Highlight
+  </a>
 
 
     </div>
@@ -3817,7 +3948,7 @@
       Yingjie Luo</span>, <span >
       Bin Chen</span>, <span >
       Sijie Yu</span>, <span >
-      T.~S. Bastian</span>, <span >
+      T. Bastian</span>, <span >
       Säm Krucker</span>
   </span>
   (2021).
@@ -3866,6 +3997,22 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2021ApJ...911....4L/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
 
 </p>
 
@@ -3946,6 +4093,22 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2021PhRvL.126m5101A/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
 
 </p>
 
@@ -4104,6 +4267,22 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2021ApJ...908L..55C/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
 
 </p>
 
@@ -4563,6 +4742,22 @@
 </a>
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ui.adsabs.harvard.edu/abs/2020ApJ...900...17Y/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
+
 </p>
 
   
@@ -4686,10 +4881,11 @@
     
     
       
+      
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" netlify netlify-honeypot="welcome-bot" >
+      <form name="contact" method="POST" action="https://formspree.io/f/mzbyzrab"  >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -4703,11 +4899,6 @@
           <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
         </div>
         
-          <div class="d-none">
-            <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
-          </div>
-          
-        
         <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
       </form>
     </div>
@@ -4715,11 +4906,6 @@
 
   <ul class="fa-ul">
 
-    
-    <li>
-      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-      <span id="person-email"><a href="mailto:bin.chen@njit.edu">bin.chen@njit.edu</a></span>
-    </li>
     
 
     

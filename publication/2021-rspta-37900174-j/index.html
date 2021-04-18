@@ -251,6 +251,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -270,8 +309,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/publication/2021-rspta-37900174-j/" />
 
@@ -289,11 +328,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/publication/2021-rspta-37900174-j/" />
-  <meta property="og:title" content="An overall view of temperature oscillations in the solar chromosphere with ALMA | Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="By direct measurements of the gas temperature, the Atacama Large Millimeter/submillimeter Array (ALMA) has yielded a new diagnostic tool to study the solar chromosphere. Here, we present an overview of the brightness-temperature fluctuations from several high-quality and high-temporal-resolution (i.e. 1 and 2 s cadence) time series of images obtained during the first 2 years of solar observations with ALMA, in Band 3 and Band 6, centred at around 3 mm (100 GHz) and 1.25 mm (239 GHz), respectively. The various datasets represent solar regions with different levels of magnetic flux. We perform fast Fourier and Lomb-Scargle transforms to measure both the spatial structuring of dominant frequencies and the average global frequency distributions of the oscillations (i.e. averaged over the entire field of view). We find that the observed frequencies significantly vary from one dataset to another, which is discussed in terms of the solar regions captured by the observations (i.e. linked to their underlying magnetic topology). While the presence of enhanced power within the frequency range 3-5 mHz is found for the most magnetically quiescent datasets, lower frequencies dominate when there is significant influence from strong underlying magnetic field concentrations (present inside and/or in the immediate vicinity of the observed field of view). We discuss here a number of reasons which could possibly contribute to the power suppression at around 5.5 mHz in the ALMA observations. However, it remains unclear how other chromospheric diagnostics (with an exception of Hensuremathα line-core intensity) are unaffected by similar effects, i.e. they show very pronounced 3-min oscillations dominating the dynamics of the chromosphere, whereas only a very small fraction of all the pixels in the 10 ALMA datasets analysed here show peak power near 5.5 mHz. This article is part of the Theo Murphy meeting issue `High-resolution wave dynamics in the lower solar atmosphere&#39;." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="An overall view of temperature oscillations in the solar chromosphere with ALMA | Bin Chen" />
+  <meta property="og:description" content="By direct measurements of the gas temperature, the Atacama Large Millimeter/submillimeter Array (ALMA) has yielded a new diagnostic tool to study the solar chromosphere. Here, we present an overview of the brightness-temperature fluctuations from several high-quality and high-temporal-resolution (i.e. 1 and 2 s cadence) time series of images obtained during the first 2 years of solar observations with ALMA, in Band 3 and Band 6, centred at around 3 mm (100 GHz) and 1.25 mm (239 GHz), respectively. The various datasets represent solar regions with different levels of magnetic flux. We perform fast Fourier and Lomb-Scargle transforms to measure both the spatial structuring of dominant frequencies and the average global frequency distributions of the oscillations (i.e. averaged over the entire field of view). We find that the observed frequencies significantly vary from one dataset to another, which is discussed in terms of the solar regions captured by the observations (i.e. linked to their underlying magnetic topology). While the presence of enhanced power within the frequency range 3-5 mHz is found for the most magnetically quiescent datasets, lower frequencies dominate when there is significant influence from strong underlying magnetic field concentrations (present inside and/or in the immediate vicinity of the observed field of view). We discuss here a number of reasons which could possibly contribute to the power suppression at around 5.5 mHz in the ALMA observations. However, it remains unclear how other chromospheric diagnostics (with an exception of Hensuremathα line-core intensity) are unaffected by similar effects, i.e. they show very pronounced 3-min oscillations dominating the dynamics of the chromosphere, whereas only a very small fraction of all the pixels in the 10 ALMA datasets analysed here show peak power near 5.5 mHz. This article is part of the Theo Murphy meeting issue `High-resolution wave dynamics in the lower solar atmosphere&#39;." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -337,10 +379,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Bin Chen's Site (under construction)",
+    "name": "Bin Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "By direct measurements of the gas temperature, the Atacama Large Millimeter/submillimeter Array (ALMA) has yielded a new diagnostic tool to study the solar chromosphere. Here, we present an overview of the brightness-temperature fluctuations from several high-quality and high-temporal-resolution (i.e. 1 and 2 s cadence) time series of images obtained during the first 2 years of solar observations with ALMA, in Band 3 and Band 6, centred at around 3 mm (100 GHz) and 1.25 mm (239 GHz), respectively. The various datasets represent solar regions with different levels of magnetic flux. We perform fast Fourier and Lomb-Scargle transforms to measure both the spatial structuring of dominant frequencies and the average global frequency distributions of the oscillations (i.e. averaged over the entire field of view). We find that the observed frequencies significantly vary from one dataset to another, which is discussed in terms of the solar regions captured by the observations (i.e. linked to their underlying magnetic topology). While the presence of enhanced power within the frequency range 3-5 mHz is found for the most magnetically quiescent datasets, lower frequencies dominate when there is significant influence from strong underlying magnetic field concentrations (present inside and/or in the immediate vicinity of the observed field of view). We discuss here a number of reasons which could possibly contribute to the power suppression at around 5.5 mHz in the ALMA observations. However, it remains unclear how other chromospheric diagnostics (with an exception of Hensuremathα line-core intensity) are unaffected by similar effects, i.e. they show very pronounced 3-min oscillations dominating the dynamics of the chromosphere, whereas only a very small fraction of all the pixels in the 10 ALMA datasets analysed here show peak power near 5.5 mHz. This article is part of the Theo Murphy meeting issue `High-resolution wave dynamics in the lower solar atmosphere'."
@@ -359,7 +401,7 @@
 
 
 
-  <title>An overall view of temperature oscillations in the solar chromosphere with ALMA | Bin Chen&#39;s Site (under construction)</title>
+  <title>An overall view of temperature oscillations in the solar chromosphere with ALMA | Bin Chen</title>
 </head>
 
 
@@ -436,7 +478,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -449,7 +491,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 

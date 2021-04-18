@@ -251,6 +251,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -270,8 +309,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/publication/2018-ap-j-866-62-c/" />
 
@@ -289,11 +328,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/publication/2018-ap-j-866-62-c/" />
-  <meta property="og:title" content="Magnetic Reconnection Null Points as the Origin of Semirelativistic Electron Beams in a Solar Jet | Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="Magnetic reconnection, the central engine that powers explosive phenomena throughout the universe, is also perceived to be one of the principal mechanisms for accelerating particles to high energies. Although various signatures of magnetic reconnection have been frequently reported, observational evidence that links particle acceleration directly to the reconnection site has been rare, especially for space plasma environments currently inaccessible to in situ measurements. Here we utilize broadband radio dynamic imaging spectroscopy available from the Karl G. Jansky Very Large Array to observe decimetric type III radio bursts in a solar jet with high angular (~20″), spectral (~1%), and temporal resolution (50 ms). These observations allow us to derive detailed trajectories of semirelativistic (tens of keV) electron beams in the low solar corona with unprecedentedly high angular precision ($łt$0.″65). We found that each group of electron beams, which corresponds to a cluster of type III bursts with 1-2 s duration, diverges from an extremely compact region (~600 km$^2$) in the low solar corona. The beam-diverging sites are located behind the erupting jet spire and above the closed arcades, coinciding with the presumed location of magnetic reconnection in the jet eruption picture supported by extreme ultraviolet/X-ray data and magnetic modeling. We interpret each beam-diverging site as a reconnection null point where multitudes of magnetic flux tubes join and reconnect. Our data suggest that the null points likely consist of a high level of density inhomogeneities possibly down to 10 km scales. These results, at least in the present case, strongly favor a reconnection-driven electron-acceleration scenario." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Magnetic Reconnection Null Points as the Origin of Semirelativistic Electron Beams in a Solar Jet | Bin Chen" />
+  <meta property="og:description" content="Magnetic reconnection, the central engine that powers explosive phenomena throughout the universe, is also perceived to be one of the principal mechanisms for accelerating particles to high energies. Although various signatures of magnetic reconnection have been frequently reported, observational evidence that links particle acceleration directly to the reconnection site has been rare, especially for space plasma environments currently inaccessible to in situ measurements. Here we utilize broadband radio dynamic imaging spectroscopy available from the Karl G. Jansky Very Large Array to observe decimetric type III radio bursts in a solar jet with high angular (~20″), spectral (~1%), and temporal resolution (50 ms). These observations allow us to derive detailed trajectories of semirelativistic (tens of keV) electron beams in the low solar corona with unprecedentedly high angular precision ($łt$0.″65). We found that each group of electron beams, which corresponds to a cluster of type III bursts with 1-2 s duration, diverges from an extremely compact region (~600 km$^2$) in the low solar corona. The beam-diverging sites are located behind the erupting jet spire and above the closed arcades, coinciding with the presumed location of magnetic reconnection in the jet eruption picture supported by extreme ultraviolet/X-ray data and magnetic modeling. We interpret each beam-diverging site as a reconnection null point where multitudes of magnetic flux tubes join and reconnect. Our data suggest that the null points likely consist of a high level of density inhomogeneities possibly down to 10 km scales. These results, at least in the present case, strongly favor a reconnection-driven electron-acceleration scenario." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -337,10 +379,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Bin Chen's Site (under construction)",
+    "name": "Bin Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Magnetic reconnection, the central engine that powers explosive phenomena throughout the universe, is also perceived to be one of the principal mechanisms for accelerating particles to high energies. Although various signatures of magnetic reconnection have been frequently reported, observational evidence that links particle acceleration directly to the reconnection site has been rare, especially for space plasma environments currently inaccessible to in situ measurements. Here we utilize broadband radio dynamic imaging spectroscopy available from the Karl G. Jansky Very Large Array to observe decimetric type III radio bursts in a solar jet with high angular (~20″), spectral (~1%), and temporal resolution (50 ms). These observations allow us to derive detailed trajectories of semirelativistic (tens of keV) electron beams in the low solar corona with unprecedentedly high angular precision ($łt$0.″65). We found that each group of electron beams, which corresponds to a cluster of type III bursts with 1-2 s duration, diverges from an extremely compact region (~600 km$^2$) in the low solar corona. The beam-diverging sites are located behind the erupting jet spire and above the closed arcades, coinciding with the presumed location of magnetic reconnection in the jet eruption picture supported by extreme ultraviolet/X-ray data and magnetic modeling. We interpret each beam-diverging site as a reconnection null point where multitudes of magnetic flux tubes join and reconnect. Our data suggest that the null points likely consist of a high level of density inhomogeneities possibly down to 10 km scales. These results, at least in the present case, strongly favor a reconnection-driven electron-acceleration scenario."
@@ -359,7 +401,7 @@
 
 
 
-  <title>Magnetic Reconnection Null Points as the Origin of Semirelativistic Electron Beams in a Solar Jet | Bin Chen&#39;s Site (under construction)</title>
+  <title>Magnetic Reconnection Null Points as the Origin of Semirelativistic Electron Beams in a Solar Jet | Bin Chen</title>
 </head>
 
 
@@ -436,7 +478,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -449,7 +491,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 

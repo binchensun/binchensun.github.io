@@ -251,6 +251,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -270,8 +309,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/publication/2019-ap-j-872-71-y/" />
 
@@ -289,11 +328,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/publication/2019-ap-j-872-71-y/" />
-  <meta property="og:title" content="Possible Detection of Subsecond-period Propagating Magnetohydrodynamics Waves in Post-reconnection Magnetic Loops during a Two-ribbon Solar Flare | Bin Chen&#39;s Site (under construction)" />
-  <meta property="og:description" content="Solar flares involve the sudden release of magnetic energy in the solar corona. Accelerated nonthermal electrons have often been invoked as the primary means for transporting the bulk of the released energy to the lower solar atmosphere. However, significant challenges remain for this scenario, especially in accounting for the large number of accelerated electrons inferred from observations. Propagating magnetohydrodynamics (MHD) waves, particularly those with subsecond/second-scale periods, have been proposed as an alternative means for transporting the released flare energy, likely alongside the electron beams, while observational evidence remains elusive. Here we report a possible detection of such waves in the late impulsive phase of a two-ribbon flare. This is based on ultrahigh cadence dynamic imaging spectroscopic observations of a peculiar type of decimetric radio bursts obtained by the Karl G. Jansky Very Large Array. Radio imaging at each time and frequency pixel allows us to trace the spatiotemporal motion of the source, which agrees with the implications of the frequency drift pattern in the dynamic spectrum. The radio source, propagating at 1000-2000 km s$^-1$ in projection, shows close spatial and temporal association with transient brightenings on the flare ribbon. In addition, multitudes of subsecond-period oscillations are present in the radio emission. We interpret the observed radio bursts as short-period MHD wave packets propagating along newly reconnected magnetic flux tubes linking to the flare ribbon. The estimated energy flux carried by the waves is comparable to that needed to account for the plasma heating during the late impulsive phase of this flare." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Possible Detection of Subsecond-period Propagating Magnetohydrodynamics Waves in Post-reconnection Magnetic Loops during a Two-ribbon Solar Flare | Bin Chen" />
+  <meta property="og:description" content="Solar flares involve the sudden release of magnetic energy in the solar corona. Accelerated nonthermal electrons have often been invoked as the primary means for transporting the bulk of the released energy to the lower solar atmosphere. However, significant challenges remain for this scenario, especially in accounting for the large number of accelerated electrons inferred from observations. Propagating magnetohydrodynamics (MHD) waves, particularly those with subsecond/second-scale periods, have been proposed as an alternative means for transporting the released flare energy, likely alongside the electron beams, while observational evidence remains elusive. Here we report a possible detection of such waves in the late impulsive phase of a two-ribbon flare. This is based on ultrahigh cadence dynamic imaging spectroscopic observations of a peculiar type of decimetric radio bursts obtained by the Karl G. Jansky Very Large Array. Radio imaging at each time and frequency pixel allows us to trace the spatiotemporal motion of the source, which agrees with the implications of the frequency drift pattern in the dynamic spectrum. The radio source, propagating at 1000-2000 km s$^-1$ in projection, shows close spatial and temporal association with transient brightenings on the flare ribbon. In addition, multitudes of subsecond-period oscillations are present in the radio emission. We interpret the observed radio bursts as short-period MHD wave packets propagating along newly reconnected magnetic flux tubes linking to the flare ribbon. The estimated energy flux carried by the waves is comparable to that needed to account for the plasma heating during the late impulsive phase of this flare." /><meta property="og:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -337,10 +379,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Bin Chen's Site (under construction)",
+    "name": "Bin Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Solar flares involve the sudden release of magnetic energy in the solar corona. Accelerated nonthermal electrons have often been invoked as the primary means for transporting the bulk of the released energy to the lower solar atmosphere. However, significant challenges remain for this scenario, especially in accounting for the large number of accelerated electrons inferred from observations. Propagating magnetohydrodynamics (MHD) waves, particularly those with subsecond/second-scale periods, have been proposed as an alternative means for transporting the released flare energy, likely alongside the electron beams, while observational evidence remains elusive. Here we report a possible detection of such waves in the late impulsive phase of a two-ribbon flare. This is based on ultrahigh cadence dynamic imaging spectroscopic observations of a peculiar type of decimetric radio bursts obtained by the Karl G. Jansky Very Large Array. Radio imaging at each time and frequency pixel allows us to trace the spatiotemporal motion of the source, which agrees with the implications of the frequency drift pattern in the dynamic spectrum. The radio source, propagating at 1000-2000 km s$^-1$ in projection, shows close spatial and temporal association with transient brightenings on the flare ribbon. In addition, multitudes of subsecond-period oscillations are present in the radio emission. We interpret the observed radio bursts as short-period MHD wave packets propagating along newly reconnected magnetic flux tubes linking to the flare ribbon. The estimated energy flux carried by the waves is comparable to that needed to account for the plasma heating during the late impulsive phase of this flare."
@@ -359,7 +401,7 @@
 
 
 
-  <title>Possible Detection of Subsecond-period Propagating Magnetohydrodynamics Waves in Post-reconnection Magnetic Loops during a Two-ribbon Solar Flare | Bin Chen&#39;s Site (under construction)</title>
+  <title>Possible Detection of Subsecond-period Propagating Magnetohydrodynamics Waves in Post-reconnection Magnetic Loops during a Two-ribbon Solar Flare | Bin Chen</title>
 </head>
 
 
@@ -436,7 +478,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -449,7 +491,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 

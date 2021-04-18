@@ -251,6 +251,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87WZQX9KHW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-87WZQX9KHW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -270,8 +309,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_180x180_fill_lanczos_center_2.png" />
 
   <link rel="canonical" href="https://binchensun.github.io/publication/2015-sci-350-1238-c/" />
 
@@ -288,9 +327,12 @@
   
   <meta property="twitter:card" content="summary_large_image" />
   
-  <meta property="og:site_name" content="Bin Chen&#39;s Site (under construction)" />
+    <meta property="twitter:site" content="@BinChenNJIT" />
+    <meta property="twitter:creator" content="@BinChenNJIT" />
+  
+  <meta property="og:site_name" content="Bin Chen" />
   <meta property="og:url" content="https://binchensun.github.io/publication/2015-sci-350-1238-c/" />
-  <meta property="og:title" content="Particle acceleration by a solar flare termination shock | Bin Chen&#39;s Site (under construction)" />
+  <meta property="og:title" content="Particle acceleration by a solar flare termination shock | Bin Chen" />
   <meta property="og:description" content="Solar flares—the most powerful explosions in the solar system—are also efficient particle accelerators, capable of energizing a large number of charged particles to relativistic speeds. A termination shock is often invoked in the standard model of solar flares as a possible driver for particle acceleration, yet its existence and role have remained controversial. We present observations of a solar flare termination shock and trace its morphology and dynamics using high-cadence radio imaging spectroscopy. We show that a disruption of the shock coincides with an abrupt reduction of the energetic electron population. The observed properties of the shock are well reproduced by simulations. These results strongly suggest that a termination shock is responsible, at least in part, for accelerating energetic electrons in solar flares." /><meta property="og:image" content="https://binchensun.github.io/publication/2015-sci-350-1238-c/featured.jpg" />
     <meta property="twitter:image" content="https://binchensun.github.io/publication/2015-sci-350-1238-c/featured.jpg" /><meta property="og:locale" content="en-us" />
   
@@ -340,10 +382,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Bin Chen's Site (under construction)",
+    "name": "Bin Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://binchensun.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Solar flares—the most powerful explosions in the solar system—are also efficient particle accelerators, capable of energizing a large number of charged particles to relativistic speeds. A termination shock is often invoked in the standard model of solar flares as a possible driver for particle acceleration, yet its existence and role have remained controversial. We present observations of a solar flare termination shock and trace its morphology and dynamics using high-cadence radio imaging spectroscopy. We show that a disruption of the shock coincides with an abrupt reduction of the energetic electron population. The observed properties of the shock are well reproduced by simulations. These results strongly suggest that a termination shock is responsible, at least in part, for accelerating energetic electrons in solar flares."
@@ -362,7 +404,7 @@
 
 
 
-  <title>Particle acceleration by a solar flare termination shock | Bin Chen&#39;s Site (under construction)</title>
+  <title>Particle acceleration by a solar flare termination shock | Bin Chen</title>
 </head>
 
 
@@ -439,7 +481,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -452,7 +494,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Bin Chen&#39;s Site (under construction)</a>
+      <a class="navbar-brand" href="/">Bin Chen</a>
     </div>
     
 
@@ -845,12 +887,6 @@
 
 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/acceleration/">
-    Project
-  </a>
-  
-
-  
   <a class="btn btn-outline-primary btn-page-header" href="/project/shock_wave/">
     Project
   </a>
@@ -868,6 +904,54 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://ui.adsabs.harvard.edu/abs/2015Sci...350.1238C/abstract" target="_blank" rel="noopener">
+    
+    ADS
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://public.nrao.edu/news/2013-10-01-13-11-51-4/" target="_blank" rel="noopener">
+    
+    NRAO Press Release
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://www.scientificamerican.com/article/mysteriously-powerful-particles-from-solar-explosions-unveiled-in-new-study/" target="_blank" rel="noopener">
+    
+    Scientific American
+  </a>
 
 
 </div>
