@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Chen</title>
+    <link>https://binchensun.github.io/</link>
+      <atom:link href="https://binchensun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>Bin Chen</title>
+      <link>https://binchensun.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://binchensun.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electron Acceleration during Macroscale Magnetic Reconnection</title>
+      <link>https://binchensun.github.io/publication/2021-ph-rv-l-126-m-5101-a/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2021-ph-rv-l-126-m-5101-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Spectral Imaging of an M8.4 Eruptive Solar Flare: Possible Evidence of a Termination Shock</title>
+      <link>https://binchensun.github.io/publication/2021-ap-j-911-4-l/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2021-ap-j-911-4-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overall view of temperature oscillations in the solar chromosphere with ALMA</title>
+      <link>https://binchensun.github.io/publication/2021-rspta-37900174-j/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2021-rspta-37900174-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Electron Distribution of the Coronal Acceleration Region: First Results from Joint Microwave and Hard X-Ray Imaging Spectroscopy</title>
+      <link>https://binchensun.github.io/publication/2021-ap-j-908-l-55-c/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2021-ap-j-908-l-55-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasma heating induced by tadpole-like downflows in the flaring solar corona</title>
+      <link>https://binchensun.github.io/publication/2021-innov-200083-s/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2021-innov-200083-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging Spectroscopy of CME-associated Solar Radio Bursts using OVRO-LWA</title>
+      <link>https://binchensun.github.io/publication/2021-ap-j-906-132-c/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2021-ap-j-906-132-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central Engine of a Solar Eruption</title>
+      <link>https://binchensun.github.io/research/ns_paper_2020/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/research/ns_paper_2020/</guid>
+      <description>&lt;p&gt;A long and thin, “sheet”-like structure with a strong electric current—referred to as a “current sheet”—is believed to be the “central engine” that drives large eruptive solar flares. At the current sheet, opposing magnetic field lines approach, break, and reconnect. Consequently, the previously stored magnetic energy is released to power the eruption (often observed as a coronal mass ejection) and to produce flare emissions observable in virtually the entire electromagnetic spectrum from radio to X-rays. The released magnetic energy is also responsible for accelerating charged particles to nearly the speed of light.&lt;/p&gt;
+&lt;p&gt;Solar astronomers have been able to infer the presence of such current sheets in solar flares. However, there has been heretofore no measurement of its magnetic properties. With this new study published in Nature Astronomy, Prof. Bin Chen of the New Jersey Institute of Technology (NJIT) and his colleagues used multi-frequency microwave imaging observations, provided by the &lt;a href=&#34;http://ovsa.njit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expanded Owens Valley Solar Array&lt;/a&gt; (EOVSA; a 13-element antenna array operated by NJIT), to obtain measurements of the magnetic field of a current sheet in a large eruptive solar flare for the first time. Remarkably, the measured magnetic field matches closely with predictions in a well-known analytical model of the “standard” solar flare scenario as well as numerical simulations based on magnetohydrodynamics equations.&lt;/p&gt;
+&lt;p&gt;The measurements also reveal a magnetic, bottle-like structure—referred to as a “magnetic bottle”—located near the bottom of the current sheet and above the newly formed flare arcade (via magnetic reconnection). The study shows that, while a huge amount of magnetic energy is being pumped into the main body of the current sheet at an estimated rate of 10-100 billion trillion joules per second, 99% of the observed relativistic electrons concentrate at the bottom of the current sheet near the magnetic bottle.&lt;/p&gt;
+&lt;p&gt;This study suggests that, at least in the present event, the magnetic bottle appears to be crucial in producing or confining the relativistic electrons. These observations will inspire further observational, theoretical, and modeling studies on solar flare energy release and particle acceleration, which is main science topic of the NASA/NSF Heliophysics Science Drive Center SolFER collaboration.&lt;/p&gt;
+&lt;p&gt;The study was also highlighted by several agencies, institutions, and media outlets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&amp;amp;org=NSF&amp;amp;from=news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NSF Research News&lt;/strong&gt;: Researchers Offer Look Into &amp;lsquo;Central Engine&amp;rsquo; Powering a Solar Flare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.njit.edu/researchers-offer-unprecedented-look-central-engine-powering-solar-flare&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NJIT Press Release&lt;/strong&gt;: Researchers Offer Unprecedented Look Into &amp;lsquo;Central Engine&amp;rsquo; Powering a Solar Flare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cfa.harvard.edu/news/2020-15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Harvard-Smithsonian Center for Astrophysics Press Release&lt;/strong&gt;: CfA Scientists and Team Take a Look Inside the Central Engine of a Solar Flare for the First Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ynao.ac.cn/xwzx/zhxw/202007/t20200727_5645743.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;中国科学院云南天文台 (Yunnan Astronomical Observatory, Chinese Academy of Sciences)&lt;/strong&gt;: &amp;ldquo;新研究揭示太阳爆发中心能量释放区域的奥秘&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://astronomy.com/news/2020/07/astronomers-develop-new-method-for-predicting-explosive-solar-flares&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Astronomy Magazine&lt;/strong&gt;: Astronomers develop new method for predicting explosive solar flares&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;p&gt;“Measurement of magnetic field and relativistic electrons along a solar flare current sheet”, by Bin Chen, Chengcai Shen, Dale E. Gary, Katharine K. Reeves, Gregory D. Fleishman, Sijie Yu, Fan Guo, Säm Krucker, Jun Lin, Gelu Nita, Xiangliang Kong, Nature Astronomy, 2020. &lt;a href=&#34;https://www.nature.com/articles/s41550-020-1147-7&#34;&gt;https://www.nature.com/articles/s41550-020-1147-7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamical Modulation of Solar Flare Electron Acceleration due to Plasmoid-shock Interactions in the Looptop Region</title>
+      <link>https://binchensun.github.io/publication/2020-ap-j-905-l-16-k/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-ap-j-905-l-16-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot Plasma Flows and Oscillations in the Loop-top Region During the 2017 September 10 X8.2 Solar Flare</title>
+      <link>https://binchensun.github.io/publication/2020-ap-j-905-165-r/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-ap-j-905-165-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio and X-Ray Observations of Short-lived Episodes of Electron Acceleration in a Solar Microflare</title>
+      <link>https://binchensun.github.io/publication/2020-ap-j-904-94-s/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-ap-j-904-94-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Reconnection during the Post-impulsive Phase of a Long-duration Solar Flare: Bidirectional Outflows as a Cause of Microwave and X-Ray Bursts</title>
+      <link>https://binchensun.github.io/publication/2020-ap-j-900-17-y/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-ap-j-900-17-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSF features our latest research</title>
+      <link>https://binchensun.github.io/news/nsfnews_2020/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/news/nsfnews_2020/</guid>
+      <description>&lt;p&gt;Please visit NSF&amp;rsquo;s Research News for &lt;a href=&#34;https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&amp;amp;org=NSF&amp;amp;from=news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the full story&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microwave Spectral Imaging of an Erupting Magnetic Flux Rope: Implications for the Standard Solar Flare Model in Three Dimensions</title>
+      <link>https://binchensun.github.io/publication/2020-ap-j-895-l-50-c/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-ap-j-895-l-50-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Flare-accelerated Electrons Quantified by Spatially Resolved Analysis</title>
+      <link>https://binchensun.github.io/publication/2020-fr-ass-7-22-k/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-fr-ass-7-22-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronal Mass Ejections</title>
+      <link>https://binchensun.github.io/project/eruption/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/eruption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrumentation</title>
+      <link>https://binchensun.github.io/project/instrumentation/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/instrumentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Reconnection</title>
+      <link>https://binchensun.github.io/project/reconnection/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/reconnection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Acceleration</title>
+      <link>https://binchensun.github.io/project/acceleration/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shocks and Waves</title>
+      <link>https://binchensun.github.io/project/shock_wave/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/shock_wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Radio Bursts</title>
+      <link>https://binchensun.github.io/project/radio_bursts/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/radio_bursts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Computational Tools in Solar Physics</title>
+      <link>https://binchensun.github.io/publication/2020-so-ph-295-57-b/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-so-ph-295-57-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Electrons Observed Down to &lt;7 keV in a NuSTAR Solar Microflare</title>
+      <link>https://binchensun.github.io/publication/2020-ap-j-891-l-34-g/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-ap-j-891-l-34-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drifting Pulsation Structure at the Very Beginning of the 2017 September 10 Limb Flare</title>
+      <link>https://binchensun.github.io/publication/2020-ap-j-889-72-k/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-ap-j-889-72-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decay of the coronal magnetic field can release sufficient energy to power a solar flare</title>
+      <link>https://binchensun.github.io/publication/2020-sci-367-278-f/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-sci-367-278-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of magnetic field and relativistic electrons along a solar flare current sheet</title>
+      <link>https://binchensun.github.io/publication/2020-nat-as-4-1140-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-nat-as-4-1140-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Acceleration and Confinement of Energetic Electrons by a Termination Shock in a Magnetic Trap: An Explanation for Nonthermal Loop-top Sources during Solar Flares</title>
+      <link>https://binchensun.github.io/publication/2019-ap-j-887-l-37-k/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2019-ap-j-887-l-37-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression</title>
+      <link>https://binchensun.github.io/publication/2019-ap-j-884-63-c/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2019-ap-j-884-63-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://binchensun.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Possible Detection of Subsecond-period Propagating Magnetohydrodynamics Waves in Post-reconnection Magnetic Loops during a Two-ribbon Solar Flare</title>
+      <link>https://binchensun.github.io/publication/2019-ap-j-872-71-y/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2019-ap-j-872-71-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Observations of Solar Flares</title>
+      <link>https://binchensun.github.io/publication/2018-aspc-517-99-g/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2018-aspc-517-99-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Dynamical Behavior of Reconnection-driven Termination Shocks in Solar Flares: Magnetohydrodynamic Simulations</title>
+      <link>https://binchensun.github.io/publication/2018-ap-j-869-116-s/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2018-ap-j-869-116-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Reconnection Null Points as the Origin of Semirelativistic Electron Beams in a Solar Jet</title>
+      <link>https://binchensun.github.io/publication/2018-ap-j-866-62-c/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2018-ap-j-866-62-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad Non-Gaussian Fe XXIV Line Profiles in the Impulsive Phase of the 2017 September 10 X8.3-class Flare Observed by Hinode/EIS</title>
+      <link>https://binchensun.github.io/publication/2018-ap-j-864-63-p/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2018-ap-j-864-63-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave and Hard X-Ray Observations of the 2017 September 10 Solar Limb Flare</title>
+      <link>https://binchensun.github.io/publication/2018-ap-j-863-83-g/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2018-ap-j-863-83-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Spectral Imaging of Decimetric Fiber Bursts in an Eruptive Solar Flare</title>
+      <link>https://binchensun.github.io/publication/2017-ap-j-848-77-w/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2017-ap-j-848-77-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the Sun with the Atacama Large Millimeter/submillimeter Array (ALMA): Fast-Scan Single-Dish Mapping</title>
+      <link>https://binchensun.github.io/publication/2017-so-ph-292-88-w/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2017-so-ph-292-88-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the Sun with the Atacama Large Millimeter/submillimeter Array (ALMA): High-Resolution Interferometric Imaging</title>
+      <link>https://binchensun.github.io/publication/2017-so-ph-292-87-s/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2017-so-ph-292-87-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The First Focused Hard X-ray Images of the Sun with NuSTAR</title>
+      <link>https://binchensun.github.io/publication/2016-ap-j-826-20-g/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2016-ap-j-826-20-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Sausage Oscillation of Solar Flare Loops Detected by the Interface Region Imaging Spectrograph</title>
+      <link>https://binchensun.github.io/publication/2016-ap-j-823-l-16-t/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2016-ap-j-823-l-16-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the Fan-spine Reconnection Geometry of a Small-scale Chromospheric Jet Event with the New Solar Telescope</title>
+      <link>https://binchensun.github.io/publication/2016-ap-j-819-l-3-z/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2016-ap-j-819-l-3-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle acceleration by a solar flare termination shock</title>
+      <link>https://binchensun.github.io/publication/2015-sci-350-1238-c/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2015-sci-350-1238-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Evolution of Chromospheric Evaporation: Case Studies of the M1.1 Flare on 2014 September 6 and X1.6 Flare on 2014 September 10</title>
+      <link>https://binchensun.github.io/publication/2015-ap-j-811-139-t/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2015-ap-j-811-139-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging and Spectroscopic Observations of Magnetic Reconnection and Chromospheric Evaporation in a Solar Flare</title>
+      <link>https://binchensun.github.io/publication/2014-ap-j-797-l-14-t/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2014-ap-j-797-l-14-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Evidence of an Eruptive, Filament-hosting Magnetic Flux Rope Leading to a Fast Solar Coronal Mass Ejection</title>
+      <link>https://binchensun.github.io/publication/2014-ap-j-794-149-c/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2014-ap-j-794-149-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing Electron Beams in the Sun&#39;s Corona with Radio Dynamic Imaging Spectroscopy</title>
+      <link>https://binchensun.github.io/publication/2013-ap-j-763-l-21-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2013-ap-j-763-l-21-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Inverse Compton Scattering in Solar Coronal Hard X-Ray and ensuremathγ-Ray Sources</title>
+      <link>https://binchensun.github.io/publication/2012-ap-j-750-35-c/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2012-ap-j-750-35-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially and Spectrally Resolved Observations of a Zebra Pattern in a Solar Decimetric Radio Burst</title>
+      <link>https://binchensun.github.io/publication/2011-ap-j-736-64-c/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2011-ap-j-736-64-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio fine structures in dm-cm wavelength range associated with magnetic reconnection processes</title>
+      <link>https://binchensun.github.io/publication/2010-ad-sp-r-46-413-y/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2010-ad-sp-r-46-413-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiky Fine Structure of Type III-like Radio Bursts in Absorption</title>
+      <link>https://binchensun.github.io/publication/2010-so-ph-262-149-c/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2010-so-ph-262-149-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-Lived Absorptive Type III-like Microwave Bursts as a Signature of Fragmented Electron Injections</title>
+      <link>https://binchensun.github.io/publication/2008-ap-j-689-1412-c/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2008-ap-j-689-1412-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Origin of the Zebra Pattern with Pulsating Superfine Structures on 21 April 2002</title>
+      <link>https://binchensun.github.io/publication/2007-so-ph-246-431-c/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2007-so-ph-246-431-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostics of Radio Fine Structures around 3 GHz with Hinode Data in the Impulsive Phase of an X3.4/4B Flare Event on 2006 December 13</title>
+      <link>https://binchensun.github.io/publication/2007-pasj-59-s-815-y/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2007-pasj-59-s-815-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://binchensun.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
