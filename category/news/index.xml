@@ -5,7 +5,7 @@
     <link>https://binchensun.github.io/category/news/</link>
       <atom:link href="https://binchensun.github.io/category/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
@@ -13,21 +13,10 @@
     </image>
     
     <item>
-      <title>New Postdoc Position</title>
-      <link>https://binchensun.github.io/news/postdoc_2021/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://binchensun.github.io/news/postdoc_2021/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://centers.njit.edu/cstr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Solar-Terrestrial Research&lt;/a&gt; (CSTR) at the New Jersey Institute of Technology has an immediate opening for a Post-Doctoral Research Associate to carry out original research in the area of solar flare physics. The researcher will utilize radio data from the &lt;a href=&#34;http://ovsa.njit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expanded Owens Valley Solar Array&lt;/a&gt; (EOVSA), the &lt;a href=&#34;https://science.nrao.edu/facilities/vla/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karl G. Jansky Very Large Array&lt;/a&gt;, as well as multi-wavelength data obtained by other ground-based or spaceborne telescope facilities, to study energy release and particle acceleration in solar eruptive events. The researcher will also have the opportunity to join a multi-institutional collaboration to work on joint observation–model studies of solar eruptions, and to contribute to EOVSA operation and the development of next-generation solar radio instrumentation. The appointment is initially for one year, with the possibility of renewal for up to two additional years contingent upon the availability of funding and mutual satisfaction. Applications will be accepted until the position is filled.&lt;/p&gt;
-&lt;p&gt;By the time of the start date, the applicant is expected to have a Ph.D. in physics, astrophysics, space physics, or a closely related field. The successful candidate is expected to have experience in the analysis of solar data, an understanding of basic solar physics, plasma physics, and radiative transfer, and a working knowledge of Python/IDL and Linux/Mac. Experience in radio interferometry and synthesis imaging will be considered a plus but not a prerequisite.&lt;/p&gt;
-&lt;p&gt;Applications can be submitted at &lt;a href=&#34;https://njit.csod.com/ats/careersite/JobDetails.aspx?site=1&amp;amp;id=2833&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The application consists of a cover letter, complete CV (including a list of publications), a research statement (1-2 page), and names and contact information for three references. Questions about the position can be directed to Bin Chen at bin.chen at njit.edu or Sijie Yu at sijie.yu at njit.edu.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Central Engine of a Solar Eruption</title>
-      <link>https://binchensun.github.io/research/ns_paper_2020/</link>
+      <link>https://binchensun.github.io/post/ns_paper_2020/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://binchensun.github.io/research/ns_paper_2020/</guid>
+      <guid>https://binchensun.github.io/post/ns_paper_2020/</guid>
       <description>&lt;p&gt;A long and thin, “sheet”-like structure with a strong electric current—referred to as a “current sheet”—is believed to be the “central engine” that drives large eruptive solar flares. At the current sheet, opposing magnetic field lines approach, break, and reconnect. Consequently, the previously stored magnetic energy is released to power the eruption (often observed as a coronal mass ejection) and to produce flare emissions observable in virtually the entire electromagnetic spectrum from radio to X-rays. The released magnetic energy is also responsible for accelerating charged particles to nearly the speed of light.&lt;/p&gt;
 &lt;p&gt;Solar astronomers have been able to infer the presence of such current sheets in solar flares. However, there has been heretofore no measurement of its magnetic properties. With this new study published in Nature Astronomy, Prof. Bin Chen of the New Jersey Institute of Technology (NJIT) and his colleagues used multi-frequency microwave imaging observations, provided by the &lt;a href=&#34;http://ovsa.njit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expanded Owens Valley Solar Array&lt;/a&gt; (EOVSA; a 13-element antenna array operated by NJIT), to obtain measurements of the magnetic field of a current sheet in a large eruptive solar flare for the first time. Remarkably, the measured magnetic field matches closely with predictions in a well-known analytical model of the “standard” solar flare scenario as well as numerical simulations based on magnetohydrodynamics equations.&lt;/p&gt;
 &lt;p&gt;The measurements also reveal a magnetic, bottle-like structure—referred to as a “magnetic bottle”—located near the bottom of the current sheet and above the newly formed flare arcade (via magnetic reconnection). The study shows that, while a huge amount of magnetic energy is being pumped into the main body of the current sheet at an estimated rate of 10-100 billion trillion joules per second, 99% of the observed relativistic electrons concentrate at the bottom of the current sheet near the magnetic bottle.&lt;/p&gt;

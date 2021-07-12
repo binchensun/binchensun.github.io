@@ -34,5 +34,19 @@
 </description>
     </item>
     
+    <item>
+      <title>Shocked and Accelerated</title>
+      <link>https://binchensun.github.io/research/ts_paper_2019/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/research/ts_paper_2019/</guid>
+      <description>&lt;p&gt;In many space and astrophysical plasma contexts, shocks are considered as one of the most important mechanisms for accelerating charged particles up to relativistic speeds. Different types of shocks are present on the Sun. One of the most well-known types is shocks driven by coronal mass ejections (see, e.g., Morosan et al. 2019). There is another type of shocks in solar flares driven by reconnection outflows, known as &amp;ldquo;termination shocks&amp;rdquo;. Such shocks have been proposed within the framework of the standard solar flare model as a potential particle accelerator. Particularly, they are depicted in some of the most well-known schematics of the standard flare model (e.g.,, Masuda+1994; Shibata+1995).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Solar Flare Termination Shock&lt;/em&gt;
+A &amp;ldquo;Termination Shock&amp;rdquo; can form above the top of solar flare arcades, which is induced by super-magnetosonic reconnection outflows.
+In solar flares, a fast-mode shock can form at the top of flare arcades if the speed of reconnection outflows impinging upon the arcades exceeds the local fast-mode magnetosonic speed. Such shocks are capable of accelerating electrons to nonthermal energies (Tsuneta &amp;amp; Naito 1998; Guo et al. 2012) and can produce observable radio emission (e.g., Aurass et al. 2002). Previously, in Chen et al. 2015, Science, we used observations from the Karl G. Jansky Very Large Array (VLA) at 1­–2 GHz to image a type of radio bursts likely associated with a termination shock—called &amp;ldquo;stochastic spike bursts&amp;rdquo;—with simultaneous high temporal and spectral resolution. The radio centroids outline a dynamic shock surface, located at the ending point of fast plasma downflows and above a hard X-ray looptop source (Fig. 1).&lt;/p&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;p&gt;“Measurement of magnetic field and relativistic electrons along a solar flare current sheet”, by Bin Chen, Chengcai Shen, Dale E. Gary, Katharine K. Reeves, Gregory D. Fleishman, Sijie Yu, Fan Guo, Säm Krucker, Jun Lin, Gelu Nita, Xiangliang Kong, Nature Astronomy, 2020. &lt;a href=&#34;https://www.nature.com/articles/s41550-020-1147-7&#34;&gt;https://www.nature.com/articles/s41550-020-1147-7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

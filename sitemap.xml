@@ -11,29 +11,35 @@
     <loc>https://binchensun.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://binchensun.github.io/tag/blog/</loc>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binchensun.github.io/category/blog/</loc>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://binchensun.github.io/categories/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binchensun.github.io/tag/nasa/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binchensun.github.io/news/postdoc_2021/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binchensun.github.io/category/news/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binchensun.github.io/news/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binchensun.github.io/tag/nsf/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binchensun.github.io/post/</loc>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binchensun.github.io/tag/publications/</loc>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://binchensun.github.io/post/tshock/</loc>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binchensun.github.io/tag/solar-flares/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binchensun.github.io/tags/</loc>
-    <lastmod>2021-05-05T17:00:00+00:00</lastmod>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binchensun.github.io/tag/astrophysics-high-energy-astrophysical-phenomena/</loc>
     <lastmod>2021-04-17T14:14:15-04:00</lastmod>
@@ -110,13 +116,10 @@
     <loc>https://binchensun.github.io/publication/2021-ap-j-906-132-c/</loc>
     <lastmod>2021-04-17T14:14:11-04:00</lastmod>
   </url><url>
-    <loc>https://binchensun.github.io/research/ns_paper_2020/</loc>
+    <loc>https://binchensun.github.io/post/ns_paper_2020/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://binchensun.github.io/research/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://binchensun.github.io/tag/publications/</loc>
+    <loc>https://binchensun.github.io/category/news/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binchensun.github.io/tag/active-solar-corona/</loc>
@@ -139,6 +142,9 @@
   </url><url>
     <loc>https://binchensun.github.io/publication/2020-ap-j-900-17-y/</loc>
     <lastmod>2021-04-17T14:14:12-04:00</lastmod>
+  </url><url>
+    <loc>https://binchensun.github.io/news/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://binchensun.github.io/news/nsfnews_2020/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
