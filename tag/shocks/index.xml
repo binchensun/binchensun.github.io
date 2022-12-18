@@ -5,7 +5,7 @@
     <link>https://binchensun.github.io/tag/shocks/</link>
       <atom:link href="https://binchensun.github.io/tag/shocks/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Shocks&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;Shocks&#34;</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>A Model of Double Coronal Hard X-Ray Sources in Solar Flares</title>
+      <link>https://binchensun.github.io/publication/kong-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/kong-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radio Spectral Imaging of an M8.4 Eruptive Solar Flare: Possible Evidence of a Termination Shock</title>
       <link>https://binchensun.github.io/publication/2021-ap-j-911-4-l/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://binchensun.github.io/publication/2021-ap-j-911-4-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Spectral Imaging of an M8.4 Eruptive Solar Flare: Possible Evidence of a Termination Shock</title>
+      <link>https://binchensun.github.io/publication_copy/2021-ap-j-911-4-l/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2021-ap-j-911-4-l/</guid>
       <description></description>
     </item>
     
@@ -29,6 +45,14 @@
     </item>
     
     <item>
+      <title>Dynamical Modulation of Solar Flare Electron Acceleration due to Plasmoid-shock Interactions in the Looptop Region</title>
+      <link>https://binchensun.github.io/publication_copy/2020-ap-j-905-l-16-k/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2020-ap-j-905-l-16-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Acceleration and Confinement of Energetic Electrons by a Termination Shock in a Magnetic Trap: An Explanation for Nonthermal Loop-top Sources during Solar Flares</title>
       <link>https://binchensun.github.io/publication/2019-ap-j-887-l-37-k/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
@@ -37,10 +61,26 @@
     </item>
     
     <item>
+      <title>The Acceleration and Confinement of Energetic Electrons by a Termination Shock in a Magnetic Trap: An Explanation for Nonthermal Loop-top Sources during Solar Flares</title>
+      <link>https://binchensun.github.io/publication_copy/2019-ap-j-887-l-37-k/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2019-ap-j-887-l-37-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression</title>
       <link>https://binchensun.github.io/publication/2019-ap-j-884-63-c/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://binchensun.github.io/publication/2019-ap-j-884-63-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression</title>
+      <link>https://binchensun.github.io/publication_copy/2019-ap-j-884-63-c/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2019-ap-j-884-63-c/</guid>
       <description></description>
     </item>
     

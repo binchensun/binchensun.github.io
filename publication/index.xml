@@ -5,12 +5,84 @@
     <link>https://binchensun.github.io/publication/</link>
       <atom:link href="https://binchensun.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://binchensun.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Microwave Imaging of Quasi-Periodic Pulsations at Flare Current Sheet</title>
+      <link>https://binchensun.github.io/publication/kou-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/kou-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Regions of Nonthermal Quasiperiodic Pulsations during the Impulsive Phase of a Solar Flare</title>
+      <link>https://binchensun.github.io/publication/luo-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/luo-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model of Double Coronal Hard X-Ray Sources in Solar Flares</title>
+      <link>https://binchensun.github.io/publication/kong-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/kong-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implications for Additional Plasma Heating Driving the Extreme-ultraviolet Late Phase of a Solar Flare with Microwave Imaging Spectroscopy</title>
+      <link>https://binchensun.github.io/publication/zhang-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/zhang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Electron Acceleration and Transport in the Early Impulsive Phase of the 2017 September 10th Solar Flare</title>
+      <link>https://binchensun.github.io/publication/li-2022-a/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/li-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Flare Accelerates Nearly All Electrons in a Large Coronal Volume</title>
+      <link>https://binchensun.github.io/publication/fleishman-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/fleishman-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Origin of Underdense Plasma Downflows Associated with Magnetic Reconnection in Solar Flares</title>
+      <link>https://binchensun.github.io/publication/shen-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/shen-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronal Magnetic Field Measurements along a Partially Erupting Filament in a Solar Flare</title>
+      <link>https://binchensun.github.io/publication/wei-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/wei-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Electron Acceleration Instances during a Series of Solar Microflares Observed Simultaneously at X-Rays and Microwaves</title>
+      <link>https://binchensun.github.io/publication/battaglia-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/battaglia-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The relation between the energy conversion rate and reconnection rate in Petschek-type reconnection—Implications for solar flares</title>
