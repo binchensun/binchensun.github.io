@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Astrophysics - Instrumentation and Methods for Astrophysics&#34; | Bin Chen</title>
+    <link>https://binchensun.github.io/tag/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
+      <atom:link href="https://binchensun.github.io/tag/astrophysics-instrumentation-and-methods-for-astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Astrophysics - Instrumentation and Methods for Astrophysics&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Astrophysics - Instrumentation and Methods for Astrophysics&#34;</title>
+      <link>https://binchensun.github.io/tag/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
+    </image>
+    
+    <item>
+      <title>A Survey of Computational Tools in Solar Physics</title>
+      <link>https://binchensun.github.io/publication/2020-so-ph-295-57-b/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2020-so-ph-295-57-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Computational Tools in Solar Physics</title>
+      <link>https://binchensun.github.io/publication_copy/2020-so-ph-295-57-b/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2020-so-ph-295-57-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the Sun with the Atacama Large Millimeter/submillimeter Array (ALMA): Fast-Scan Single-Dish Mapping</title>
+      <link>https://binchensun.github.io/publication/2017-so-ph-292-88-w/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2017-so-ph-292-88-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the Sun with the Atacama Large Millimeter/submillimeter Array (ALMA): Fast-Scan Single-Dish Mapping</title>
+      <link>https://binchensun.github.io/publication_copy/2017-so-ph-292-88-w/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2017-so-ph-292-88-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the Sun with the Atacama Large Millimeter/submillimeter Array (ALMA): High-Resolution Interferometric Imaging</title>
+      <link>https://binchensun.github.io/publication/2017-so-ph-292-87-s/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2017-so-ph-292-87-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the Sun with the Atacama Large Millimeter/submillimeter Array (ALMA): High-Resolution Interferometric Imaging</title>
+      <link>https://binchensun.github.io/publication_copy/2017-so-ph-292-87-s/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2017-so-ph-292-87-s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

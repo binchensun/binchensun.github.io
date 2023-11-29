@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Bin Chen</title>
+    <link>https://binchensun.github.io/research/</link>
+      <atom:link href="https://binchensun.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://binchensun.github.io/research/</link>
+    </image>
+    
+    <item>
+      <title>Central Engine of a Solar Eruption</title>
+      <link>https://binchensun.github.io/research/ns_paper_2020/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/research/ns_paper_2020/</guid>
+      <description>&lt;p&gt;A long and thin, “sheet”-like structure with a strong electric current—referred to as a “current sheet”—is believed to be the “central engine” that drives large eruptive solar flares. At the current sheet, opposing magnetic field lines approach, break, and reconnect. Consequently, the previously stored magnetic energy is released to power the eruption (often observed as a coronal mass ejection) and to produce flare emissions observable in virtually the entire electromagnetic spectrum from radio to X-rays. The released magnetic energy is also responsible for accelerating charged particles to nearly the speed of light.&lt;/p&gt;
+&lt;p&gt;Solar astronomers have been able to infer the presence of such current sheets in solar flares. However, there has been heretofore no measurement of its magnetic properties. With this new study published in Nature Astronomy, Prof. Bin Chen of the New Jersey Institute of Technology (NJIT) and his colleagues used multi-frequency microwave imaging observations, provided by the &lt;a href=&#34;http://ovsa.njit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expanded Owens Valley Solar Array&lt;/a&gt; (EOVSA; a 13-element antenna array operated by NJIT), to obtain measurements of the magnetic field of a current sheet in a large eruptive solar flare for the first time. Remarkably, the measured magnetic field matches closely with predictions in a well-known analytical model of the “standard” solar flare scenario as well as numerical simulations based on magnetohydrodynamics equations.&lt;/p&gt;
+&lt;p&gt;The measurements also reveal a magnetic, bottle-like structure—referred to as a “magnetic bottle”—located near the bottom of the current sheet and above the newly formed flare arcade (via magnetic reconnection). The study shows that, while a huge amount of magnetic energy is being pumped into the main body of the current sheet at an estimated rate of 10-100 billion trillion joules per second, 99% of the observed relativistic electrons concentrate at the bottom of the current sheet near the magnetic bottle.&lt;/p&gt;
+&lt;p&gt;This study suggests that, at least in the present event, the magnetic bottle appears to be crucial in producing or confining the relativistic electrons. These observations will inspire further observational, theoretical, and modeling studies on solar flare energy release and particle acceleration, which is main science topic of the NASA/NSF Heliophysics Science Drive Center SolFER collaboration.&lt;/p&gt;
+&lt;p&gt;The study was also highlighted by several agencies, institutions, and media outlets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&amp;amp;org=NSF&amp;amp;from=news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NSF Research News&lt;/strong&gt;: Researchers Offer Look Into &amp;lsquo;Central Engine&amp;rsquo; Powering a Solar Flare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.njit.edu/researchers-offer-unprecedented-look-central-engine-powering-solar-flare&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NJIT Press Release&lt;/strong&gt;: Researchers Offer Unprecedented Look Into &amp;lsquo;Central Engine&amp;rsquo; Powering a Solar Flare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cfa.harvard.edu/news/2020-15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Harvard-Smithsonian Center for Astrophysics Press Release&lt;/strong&gt;: CfA Scientists and Team Take a Look Inside the Central Engine of a Solar Flare for the First Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ynao.ac.cn/xwzx/zhxw/202007/t20200727_5645743.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;中国科学院云南天文台 (Yunnan Astronomical Observatory, Chinese Academy of Sciences)&lt;/strong&gt;: &amp;ldquo;新研究揭示太阳爆发中心能量释放区域的奥秘&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://astronomy.com/news/2020/07/astronomers-develop-new-method-for-predicting-explosive-solar-flares&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Astronomy Magazine&lt;/strong&gt;: Astronomers develop new method for predicting explosive solar flares&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;p&gt;“Measurement of magnetic field and relativistic electrons along a solar flare current sheet”, by Bin Chen, Chengcai Shen, Dale E. Gary, Katharine K. Reeves, Gregory D. Fleishman, Sijie Yu, Fan Guo, Säm Krucker, Jun Lin, Gelu Nita, Xiangliang Kong, Nature Astronomy, 2020. &lt;a href=&#34;https://www.nature.com/articles/s41550-020-1147-7&#34;&gt;https://www.nature.com/articles/s41550-020-1147-7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shocked and Accelerated</title>
+      <link>https://binchensun.github.io/research/ts_paper_2019/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/research/ts_paper_2019/</guid>
+      <description>&lt;p&gt;In many space and astrophysical plasma contexts, shocks are considered as one of the most important mechanisms for accelerating charged particles up to relativistic speeds. Different types of shocks are present on the Sun. One of the most well-known types is shocks driven by coronal mass ejections (see, e.g., Morosan et al. 2019). There is another type of shocks in solar flares driven by reconnection outflows, known as &amp;ldquo;termination shocks&amp;rdquo;. Such shocks have been proposed within the framework of the standard solar flare model as a potential particle accelerator. Particularly, they are depicted in some of the most well-known schematics of the standard flare model (e.g.,, Masuda+1994; Shibata+1995).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Solar Flare Termination Shock&lt;/em&gt;
+A &amp;ldquo;Termination Shock&amp;rdquo; can form above the top of solar flare arcades, which is induced by super-magnetosonic reconnection outflows.
+In solar flares, a fast-mode shock can form at the top of flare arcades if the speed of reconnection outflows impinging upon the arcades exceeds the local fast-mode magnetosonic speed. Such shocks are capable of accelerating electrons to nonthermal energies (Tsuneta &amp;amp; Naito 1998; Guo et al. 2012) and can produce observable radio emission (e.g., Aurass et al. 2002). Previously, in Chen et al. 2015, Science, we used observations from the Karl G. Jansky Very Large Array (VLA) at 1­–2 GHz to image a type of radio bursts likely associated with a termination shock—called &amp;ldquo;stochastic spike bursts&amp;rdquo;—with simultaneous high temporal and spectral resolution. The radio centroids outline a dynamic shock surface, located at the ending point of fast plasma downflows and above a hard X-ray looptop source (Fig. 1).&lt;/p&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;p&gt;“Measurement of magnetic field and relativistic electrons along a solar flare current sheet”, by Bin Chen, Chengcai Shen, Dale E. Gary, Katharine K. Reeves, Gregory D. Fleishman, Sijie Yu, Fan Guo, Säm Krucker, Jun Lin, Gelu Nita, Xiangliang Kong, Nature Astronomy, 2020. &lt;a href=&#34;https://www.nature.com/articles/s41550-020-1147-7&#34;&gt;https://www.nature.com/articles/s41550-020-1147-7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

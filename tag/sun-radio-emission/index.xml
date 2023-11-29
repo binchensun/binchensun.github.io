@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Sun: radio emission&#34; | Bin Chen</title>
+    <link>https://binchensun.github.io/tag/sun-radio-emission/</link>
+      <atom:link href="https://binchensun.github.io/tag/sun-radio-emission/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Sun: radio emission&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Thu, 01 Nov 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Sun: radio emission&#34;</title>
+      <link>https://binchensun.github.io/tag/sun-radio-emission/</link>
+    </image>
+    
+    <item>
+      <title>Diagnostics of Radio Fine Structures around 3 GHz with Hinode Data in the Impulsive Phase of an X3.4/4B Flare Event on 2006 December 13</title>
+      <link>https://binchensun.github.io/publication/2007-pasj-59-s-815-y/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2007-pasj-59-s-815-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostics of Radio Fine Structures around 3 GHz with Hinode Data in the Impulsive Phase of an X3.4/4B Flare Event on 2006 December 13</title>
+      <link>https://binchensun.github.io/publication_copy/2007-pasj-59-s-815-y/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2007-pasj-59-s-815-y/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
