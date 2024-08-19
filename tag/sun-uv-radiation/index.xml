@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Sun: UV radiation&#34; | Bin Chen</title>
+    <link>https://binchensun.github.io/tag/sun-uv-radiation/</link>
+      <atom:link href="https://binchensun.github.io/tag/sun-uv-radiation/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Sun: UV radiation&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Sun: UV radiation&#34;</title>
+      <link>https://binchensun.github.io/tag/sun-uv-radiation/</link>
+    </image>
+    
+    <item>
+      <title>Doppler signature of a possible termination shock in an off-limb solar flare</title>
+      <link>https://binchensun.github.io/publication/french-2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/french-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad Non-Gaussian Fe XXIV Line Profiles in the Impulsive Phase of the 2017 September 10 X8.3-class Flare Observed by Hinode/EIS</title>
+      <link>https://binchensun.github.io/publication/2018-ap-j-864-63-p/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2018-ap-j-864-63-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad Non-Gaussian Fe XXIV Line Profiles in the Impulsive Phase of the 2017 September 10 X8.3-class Flare Observed by Hinode/EIS</title>
+      <link>https://binchensun.github.io/publication_copy/2018-ap-j-864-63-p/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2018-ap-j-864-63-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

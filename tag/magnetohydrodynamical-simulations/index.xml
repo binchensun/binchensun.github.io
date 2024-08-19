@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Magnetohydrodynamical simulations&#34; | Bin Chen</title>
+    <link>https://binchensun.github.io/tag/magnetohydrodynamical-simulations/</link>
+      <atom:link href="https://binchensun.github.io/tag/magnetohydrodynamical-simulations/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Magnetohydrodynamical simulations&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Magnetohydrodynamical simulations&#34;</title>
+      <link>https://binchensun.github.io/tag/magnetohydrodynamical-simulations/</link>
+    </image>
+    
+    <item>
+      <title>Energetic Electrons Accelerated and Trapped in a Magnetic Bottle above a Solar Flare Arcade</title>
+      <link>https://binchensun.github.io/publication/chen-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/chen-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression</title>
+      <link>https://binchensun.github.io/publication/2019-ap-j-884-63-c/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2019-ap-j-884-63-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression</title>
+      <link>https://binchensun.github.io/publication_copy/2019-ap-j-884-63-c/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2019-ap-j-884-63-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

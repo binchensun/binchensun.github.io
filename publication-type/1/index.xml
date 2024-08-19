@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Bin Chen</title>
+    <link>https://binchensun.github.io/publication-type/1/</link>
+      <atom:link href="https://binchensun.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://binchensun.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Radio Observations of Solar Flares</title>
+      <link>https://binchensun.github.io/publication/2018-aspc-517-99-g/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/2018-aspc-517-99-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Observations of Solar Flares</title>
+      <link>https://binchensun.github.io/publication_copy/2018-aspc-517-99-g/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication_copy/2018-aspc-517-99-g/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
