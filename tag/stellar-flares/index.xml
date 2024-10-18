@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Stellar flares&#34; | Bin Chen</title>
+    <link>https://binchensun.github.io/tag/stellar-flares/</link>
+      <atom:link href="https://binchensun.github.io/tag/stellar-flares/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Stellar flares&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Stellar flares&#34;</title>
+      <link>https://binchensun.github.io/tag/stellar-flares/</link>
+    </image>
+    
+    <item>
+      <title>Fine Structures of Radio Bursts from Flare Star AD Leo with FAST Observations</title>
+      <link>https://binchensun.github.io/publication/zhang-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/publication/zhang-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

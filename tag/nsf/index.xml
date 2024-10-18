@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NSF | Bin Chen</title>
+    <link>https://binchensun.github.io/tag/nsf/</link>
+      <atom:link href="https://binchensun.github.io/tag/nsf/index.xml" rel="self" type="application/rss+xml" />
+    <description>NSF</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Wed, 08 Jun 2022 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>NSF</title>
+      <link>https://binchensun.github.io/tag/nsf/</link>
+    </image>
+    
+    <item>
+      <title>New study published in Nature</title>
+      <link>https://binchensun.github.io/news/nature_2022/</link>
+      <pubDate>Wed, 08 Jun 2022 12:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/news/nature_2022/</guid>
+      <description>&lt;p&gt;Nature article is freely available at &lt;a href=&#34;https://www.nature.com/articles/s41586-022-04728-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. See also our &lt;a href=&#34;https://news.njit.edu/researchers-unveil-particle-accelerator-region-inside-solar-flare&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;press release article&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shocked and Accelerated</title>
+      <link>https://binchensun.github.io/post/tshock/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/post/tshock/</guid>
+      <description>&lt;p&gt;In many space and astrophysical plasma contexts, shocks are considered one of the primary mechanisms for accelerating charged particles to high energies. One of the most well-known shock types on the Sun are those driven by coronal mass ejections (e.g., &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019NatAs...3..452M/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Morosan et al. 2019&lt;/a&gt;). There is another type of shocks in solar flares, known as the &amp;ldquo;solar flare termination shocks,&amp;rdquo; which are often incorporated within the framework of the &lt;a href=&#34;http://www.astro.gla.ac.uk/cartoons/cshkp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;standard CSHKP solar flare model&lt;/a&gt; as a potential particle accelerator. Particularly, they have been depicted in some of the most well-known schematics of the standard flare model (&lt;a href=&#34;http://www.astro.gla.ac.uk/cartoons/Shibata_1995ApJ...451L..83S_FLA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shibata+&lt;/a&gt;; &lt;a href=&#34;http://www.astro.gla.ac.uk/cartoons/Magara_1997ApJ...487..437M_FLA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Magara+&lt;/a&gt;; &lt;a href=&#34;http://www.astro.gla.ac.uk/cartoons/Yokoyama-Shibata_1998ApJ...494L.113Y_FLA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yokoyama+&lt;/a&gt;; &lt;a href=&#34;http://www.astro.gla.ac.uk/cartoons/Mann_2009A&amp;amp;A...494..669M_FLA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mann+&lt;/a&gt;). However, these shocks have received limited attention in the literature, largely due to the scarcity of observational evidence as well as detailed modeling studies. This post briefly introduces a series of our recent works which (we hope!) have helped rejuvenate the study of such shocks.&lt;/p&gt;
+&lt;img align=&#34;right&#34; src=&#34;Shibata_cartoon_shock.png&#34; width=&#34;250&#34; style=&#34;float: right; padding: 20px 0px 0px 20px;&#34; alt=&#34;Shibata Cartoon&#34;&gt;
+&lt;h3 id=&#34;solar-flare-termination-shock&#34;&gt;Solar Flare Termination Shock&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style=&#34;color:white; font-size:22px&#34;&gt;&lt;em&gt;A fast-mode &amp;ldquo;Termination Shock&amp;rdquo;, induced by super-magnetosonic plasma outflows, can form above the flare arcade.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Magnetic reconnection, the &lt;a href=&#34;https://binchensun.org/post/ns_paper_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;central engine&amp;rdquo; that powers solar flares&lt;/a&gt;, propels a pair of high-speed reconnection outflow jets from the reconnection site (upward and downward arrows in Fig. 1). A &lt;strong&gt;fast-mode shock&lt;/strong&gt; can form at the top of flare arcade provided that the speeds of reconnection outflows exceed the local fast-mode magnetosonic speed when then impinge upon the arcade top. Such shocks can accelerate electrons to nonthermal energies (&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/1998ApJ...495L..67T/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tsuneta &amp;amp; Naito 1998&lt;/a&gt;; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2012ApJ...753...28G/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guo et al. 2012&lt;/a&gt;) and can produce observable radio emissions (e.g., &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2002A%26A...384..273A/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurass et al. 2002&lt;/a&gt;). Previously, in &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2015Sci...350.1238C/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen et al. 2015, Science&lt;/a&gt;, we used observations from the &lt;a href=&#34;https://science.nrao.edu/facilities/vla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karl G. Jansky Very Large Array&lt;/a&gt; (VLA) to image a type of radio bursts called &amp;ldquo;stochastic spike bursts.&amp;rdquo; The radio centroids outline a dynamic shock surface, located at the ending point of fast plasma downflows and above a hard X-ray looptop source (Fig. 1). Most notably, the study showed a &lt;strong&gt;&lt;em&gt;reduction of the accelerated electron population during a temporary disruption of the shock&lt;/em&gt;&lt;/strong&gt;, implicating a crucial role the shock may play as an electron accelerator.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;spikes.png&#34; alt=&#34;Stochastic Spike Bursts&#34;&gt;
+&lt;em&gt;Fig. 1: Schematic of the flare termination shock and the associated radio bursts shown in A. The shock front outlined by the radio source centroids is shown in B. (Adapted from &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2015Sci...350.1238C/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen et al. 2015&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;shocked-material&#34;&gt;Shocked Material&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style=&#34;color:white; font-size:22px&#34;&gt;&lt;em&gt;A shock can compress the material across its front with observable radio signatures.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A shock can compress the material across the shock front, resulting in a denser plasma in its downstream region. Because the emission frequency of plasma radiation (that falls within radio wavelengths under conditions in the solar corona) scales with the square root of the plasma density, the radio emission frequency can be used as a probe for such plasma compression across shocks. In particular, the denser, downstream plasma will emit at a slightly higher frequency than its less dense upstream counterpart, causing a slight frequency separation in the radio spectrogram. Such a &amp;ldquo;split-band&amp;rdquo; feature has been previously observed in type II radio bursts associated with CME-driven shocks (e.g., &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2018ApJ...868...79C/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chrysaphi et al. 2018&lt;/a&gt;), although its origin is still under debate.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019ApJ...884...63C/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen et al. 2019&lt;/a&gt;, we conducted a detailed study on such &amp;ldquo;split-band&amp;rdquo; feature associated with the same termination shock event reported in Chen+2015: in the spatially-resolved radio dynamic spectrum, they show as two closely spaced lanes with slightly different frequencies (see &lt;a href=&#34;https://arxiv.org/pdf/1908.09146.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fig. 4 in their paper&lt;/a&gt;). Thanks to VLA&amp;rsquo;s dynamic spectroscopic imaging capability, we can now image the split-band radio sources at both the shock upstream and downstream sides simultaneously. They are mostly co-spatial with each other, indicating that they are likely associated with the same shock front viewed nearly edge-on. The high-frequency source is located at a slightly lower height than the low-frequency source. This observation conforms very well with the shock upstream-downstream scenario, with a density compression ratio of around 1.8 (which corresponds to a shock Mach number of ~1.6).&lt;/p&gt;
+&lt;h3 id=&#34;shock-seen-from-another-perspective&#34;&gt;Shock Seen from Another Perspective&lt;/h3&gt;
+&lt;p&gt;Recently, in a new study led by our graduate student &lt;a href=&#34;https://binchensun.org/#people&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yingjie Luo&lt;/a&gt; (&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021ApJ...911....4L/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luo et al. 2021&lt;/a&gt;), we reported VLA observations of another stochastic spike burst event from an eruptive solar flare viewed from a different perspective&amp;mdash;in Chen+2015, 2019, it was viewed by the VLA above the limb; this time, it was viewed against the solar disk. A happy coincidence was that one of &lt;a href=&#34;https://stereo.gsfc.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA&amp;rsquo;s STEREO spacecraft&lt;/a&gt; was located at ~110 degrees west (or &amp;ldquo;ahead of&amp;rdquo;) Earth&amp;rsquo;s orbit, which captured this event with a simultaneous limb view (Fig. 2). Using VLA&amp;rsquo;s spectral imaging of the spike burst source, combined with three-dimensional reconstruction of the flare arcade seen in two different perspectives, we found that the spike source was located well above the flare arcade.&lt;/p&gt;
+&lt;p&gt;It was somewhat surprising to find the spike source located at such a distance away from the EUV flare arcade. However, we identified a diffuse fan-like structure above the looptop in both the Earth view (seen by NASA&amp;rsquo;s &lt;a href=&#34;https://sdo.gsfc.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atmospheric Imaging Assembly&lt;/a&gt; aboard the Solar Dynamics Observatory) and the limb view by STEREO. They were likely associated with the newly reconnected field lines located &lt;em&gt;below&lt;/em&gt; the termination shock, as suggested by a three-dimensional magnetodynamics (MHD) modeling work led by &lt;a href=&#34;https://pweb.cfa.harvard.edu/people/chengcai-shen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chengcai Shen @ CfA&lt;/a&gt; (Shen et al. 2021, submitted).&lt;/p&gt;
+&lt;img src=&#34;luo_ts_a.png&#34; alt=&#34;Luo spacecraft&#34; width=&#34;600&#34;&gt;
+&lt;p&gt;&lt;em&gt;Fig. 2: An eruptive solar flare observed by VLA, SDO, and STEREO from two different viewing perspectives. In SDO and VLA&amp;rsquo;s view, the flare was viewed against the disk (panel C), while in STEREO-A&amp;rsquo;s view, it is located at the limb (panel D). (Adapted from &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021ApJ...911....4L/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luo et al. 2021&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;img src=&#34;luo_ts_b.png&#34; alt=&#34;Luo spikes&#34; width=&#34;600&#34;&gt;
+&lt;p&gt;&lt;em&gt;Fig. 3: The termination shock, manifested as stochastic spike bursts in our interpretation, is found to be located above the solar flare arcade in both the disk- and limb-view perspective. (Adapted from &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021ApJ...911....4L/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luo et al. 2021&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;termination-shock-as-a-particle-accelerator&#34;&gt;Termination Shock as a Particle Accelerator&lt;/h3&gt;
+&lt;p&gt;Although pertinent observational evidence for termination shocks as a particle accelerator has been reported (e.g., the stochastic spike bursts, the above-the-looptop &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/1994Natur.371..495M/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Masuda&amp;rdquo; source&lt;/a&gt;, and &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2018ApJ...865..161P/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;looptop plasma flows&lt;/a&gt;), understanding the physical picture has been far from complete. Particularly, linking these observational signatures with electron acceleration and transport requires macroscopic particle and emission modeling in a realistic flare reconnection geometry. We are working with our collaborators from the Los Alamos National Lab, Harvard-Smithsonian Center for Astrophysics, Shandong University, and Dartmouth College to develop such a modeling framework to enable detailed observation&amp;ndash;modeling comparison. Recently, with the newly developed macroscopic models, a pair of studies led by Dr. Xiangliang Kong (Fig. 4; see &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..37K/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kong et al. 2019&lt;/a&gt; and &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2020ApJ...905L..16K/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kong et al. 2020&lt;/a&gt;) have demonstrated that a dynamic termination shock above the flare arcade can efficiently accelerate electrons to high energies with a power-law spectrum. We are now investigating the expected emission signatures from these shock-accelerated electrons and comparing them to the actual observations. Please stay tuned!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kong_ts_2019.png&#34; alt=&#34;Kong et al 2019&#34;&gt;
+&lt;em&gt;Fig. 4: Macroscopic MHD and particle modeling shows that electrons are accelerated when they cross the termination shock above the flare arcade. (Adapted from &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..37K/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kong et al. 2019&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The works discussed here are supported by NSF grants AGS-1654382, AST-1723436, AST-1735405 and NASA grants NNX17AB82G and 80NSSC20K1318 to the New Jersey Institute of Technology. &lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Luo, Y.; Chen, B.; Yu, S.; Bastian, T.; Krucker, S. (2021) &amp;ldquo;Radio Spectral Imaging of an M8.4 Eruptive Solar Flare: Possible Evidence of a Termination Shock.&amp;rdquo; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021ApJ...911....4L/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Astrophysical Journal, 911, 4&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kong, X.; Guo, F.; Shen, C.; Chen, B.; Chen, Y.; Giacalone, J. (2020) &amp;ldquo;Dynamical Modulation of Solar Flare Electron Acceleration due to Plasmoid-shock Interactions in the Looptop Region.&amp;rdquo;, &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2020ApJ...905L..16K/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Astrophysical Journal Letters, 905, 16&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kong, X.; Guo, F.; Shen, C.; Chen, B.; Chen, Y.; Musset, S.; Glesener, L.; Pongkitiwanichakul, P.; Giacalone, J. (2019) &amp;ldquo;The Acceleration and Confinement of Energetic Electrons by a Termination Shock in a Magnetic Trap: An Explanation for Nonthermal Loop-top Sources during Solar Flares&amp;rdquo;, &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..37K/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Astrophysical Journal Letters, 887, 37&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chen, B.; Shen, C.; Reeves, K.; Guo F.; Yu, S. (2019) &amp;ldquo;Radio Spectroscopic Imaging of a Solar Flare Termination Shock: Split-band Feature as Evidence for Shock Compression.&amp;rdquo; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019ApJ...884...63C/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Astrophysical Journal, 884, 63&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chen, B.; Bastian, T.; Shen, C.; Gary, D.; Krucker, S.; Glesener, L. (2015) &amp;ldquo;Particle acceleration by a solar flare termination shock.&amp;rdquo; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2015Sci...350.1238C/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Science, 350, 1238&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;related-press-releases-and-media-stories&#34;&gt;Related Press Releases and Media Stories&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Scientific American&lt;/em&gt;: &lt;a href=&#34;https://www.scientificamerican.com/article/mysteriously-powerful-particles-from-solar-explosions-unveiled-in-new-study&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mysteriously Powerful Particles from Solar Explosions Unveiled in New Study&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;NJIT Press Release&lt;/em&gt;: &lt;a href=&#34;https://www.eurekalert.org/pub_releases/2015-12/njio-slo112515.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shedding Light on Particle Acceleration in Solar Flares&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;NRAO Press Release&lt;/em&gt;: &lt;a href=&#34;https://public.nrao.edu/news/2013-10-01-13-11-51-4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VLA Yields New Insights on Solar Flares&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;CfA Press Release&lt;/em&gt;: &lt;a href=&#34;https://pweb.cfa.harvard.edu/news/new-insights-solar-flares&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Insights into Solar Flares&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;RHESSI Nugget&lt;/em&gt;: &lt;a href=&#34;http://sprg.ssl.berkeley.edu/~tohban/wiki/index.php/Rejuvenating_Solar_Flare_Termination_Shocks_as_Particle_Accelerators&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rejuvenating Solar Flare Termination Shocks as Particle Accelerators&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;CESRA Highlight&lt;/em&gt;: &lt;a href=&#34;http://www.astro.gla.ac.uk/users/eduard/cesra/?p=2412&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Split-Band Feature of a Solar Flare Termination Shock&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Central Engine of a Solar Eruption</title>
+      <link>https://binchensun.github.io/post/ns_paper_2020/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/post/ns_paper_2020/</guid>
+      <description>&lt;p&gt;A long and thin, “sheet”-like structure with a strong electric current—referred to as a “current sheet”—is believed to be the “central engine” that drives large eruptive solar flares. At the current sheet, opposing magnetic field lines approach, break, and reconnect. Consequently, the previously stored magnetic energy is released to power the eruption (often observed as a coronal mass ejection) and to produce flare emissions observable in virtually the entire electromagnetic spectrum from radio to X-rays. The released magnetic energy is also responsible for accelerating charged particles to nearly the speed of light.&lt;/p&gt;
+&lt;p&gt;Solar astronomers have been able to infer the presence of such current sheets in solar flares. However, there has been heretofore no measurement of its magnetic properties. With this new study published in Nature Astronomy, Prof. Bin Chen of the New Jersey Institute of Technology (NJIT) and his colleagues used multi-frequency microwave imaging observations, provided by the &lt;a href=&#34;http://ovsa.njit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expanded Owens Valley Solar Array&lt;/a&gt; (EOVSA; a 13-element antenna array operated by NJIT), to obtain measurements of the magnetic field of a current sheet in a large eruptive solar flare for the first time. Remarkably, the measured magnetic field matches closely with predictions in a well-known analytical model of the “standard” solar flare scenario as well as numerical simulations based on magnetohydrodynamics equations.&lt;/p&gt;
+&lt;p&gt;The measurements also reveal a magnetic, bottle-like structure—referred to as a “magnetic bottle”—located near the bottom of the current sheet and above the newly formed flare arcade (via magnetic reconnection). The study shows that, while a huge amount of magnetic energy is being pumped into the main body of the current sheet at an estimated rate of 10-100 billion trillion joules per second, 99% of the observed relativistic electrons concentrate at the bottom of the current sheet near the magnetic bottle.&lt;/p&gt;
+&lt;p&gt;This study suggests that, at least in the present event, the magnetic bottle appears to be crucial in producing or confining the relativistic electrons. These observations will inspire further observational, theoretical, and modeling studies on solar flare energy release and particle acceleration, which is main science topic of the NASA/NSF Heliophysics Science Drive Center SolFER collaboration.&lt;/p&gt;
+&lt;p&gt;The study was also highlighted by several agencies, institutions, and media outlets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&amp;amp;org=NSF&amp;amp;from=news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NSF Research News&lt;/strong&gt;: Researchers Offer Look Into &amp;lsquo;Central Engine&amp;rsquo; Powering a Solar Flare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.njit.edu/researchers-offer-unprecedented-look-central-engine-powering-solar-flare&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;NJIT Press Release&lt;/strong&gt;: Researchers Offer Unprecedented Look Into &amp;lsquo;Central Engine&amp;rsquo; Powering a Solar Flare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cfa.harvard.edu/news/2020-15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Harvard-Smithsonian Center for Astrophysics Press Release&lt;/strong&gt;: CfA Scientists and Team Take a Look Inside the Central Engine of a Solar Flare for the First Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ynao.ac.cn/xwzx/zhxw/202007/t20200727_5645743.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;中国科学院云南天文台 (Yunnan Astronomical Observatory, Chinese Academy of Sciences)&lt;/strong&gt;: &amp;ldquo;新研究揭示太阳爆发中心能量释放区域的奥秘&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://astronomy.com/news/2020/07/astronomers-develop-new-method-for-predicting-explosive-solar-flares&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Astronomy Magazine&lt;/strong&gt;: Astronomers develop new method for predicting explosive solar flares&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reference&lt;/p&gt;
+&lt;p&gt;“Measurement of magnetic field and relativistic electrons along a solar flare current sheet”, by Bin Chen, Chengcai Shen, Dale E. Gary, Katharine K. Reeves, Gregory D. Fleishman, Sijie Yu, Fan Guo, Säm Krucker, Jun Lin, Gelu Nita, Xiangliang Kong, Nature Astronomy, 2020. &lt;a href=&#34;https://www.nature.com/articles/s41550-020-1147-7&#34;&gt;https://www.nature.com/articles/s41550-020-1147-7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSF features our latest research</title>
+      <link>https://binchensun.github.io/news/nsfnews_2020/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/news/nsfnews_2020/</guid>
+      <description>&lt;p&gt;Please visit NSF&amp;rsquo;s Research News for &lt;a href=&#34;https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&amp;amp;org=NSF&amp;amp;from=news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the full story&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

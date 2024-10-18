@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solar Flare | Bin Chen</title>
+    <link>https://binchensun.github.io/tag/solar-flare/</link>
+      <atom:link href="https://binchensun.github.io/tag/solar-flare/index.xml" rel="self" type="application/rss+xml" />
+    <description>Solar Flare</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Bin Chen </copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binchensun.github.io/media/icon_hu75e2917fbf1e73e1b7889fed0e47edf0_202296_512x512_fill_lanczos_center_2.png</url>
+      <title>Solar Flare</title>
+      <link>https://binchensun.github.io/tag/solar-flare/</link>
+    </image>
+    
+    <item>
+      <title>Coronal Mass Ejections</title>
+      <link>https://binchensun.github.io/project/eruption/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/eruption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Reconnection</title>
+      <link>https://binchensun.github.io/project/reconnection/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/reconnection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Acceleration</title>
+      <link>https://binchensun.github.io/project/acceleration/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shocks and Waves</title>
+      <link>https://binchensun.github.io/project/shock_wave/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/shock_wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Radio Bursts</title>
+      <link>https://binchensun.github.io/project/radio_bursts/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://binchensun.github.io/project/radio_bursts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
